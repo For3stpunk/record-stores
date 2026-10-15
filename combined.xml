@@ -3,413 +3,1348 @@
   <title>Record Store Digest — Combined Feed</title>
   <link>https://example.com</link>
   <description>All record store sources from the source list, merged into one feed</description>
-  <lastBuildDate>Wed, 14 Oct 2026 12:44:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:33:25 +0000</lastBuildDate>
   
     <item>
-      <title>[United Kingdom] The Feelies - The Good Earth</title>
-      <link>https://monorailmusic.com/products/the-feelies-the-good-earth</link>
-      <description>Monorail Music Online: &lt;table border=&quot;0&quot;&gt;
+      <title>[United Kingdom] Various Artists - Live At Jongleurs - Lp</title>
+      <link>https://vinyltap.co.uk/products/live-at-jongleurs-0700595</link>
+      <description>Vinyl Tap: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://monorailmusic.com/collections/all.atom&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/7888/5971/files/e2d8a79a3144880c3716f890bc40a652.jpg?v=1792067483&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Vendor: &lt;/strong&gt;DOMINO RECORDS&lt;br /&gt;
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Vinyl Tap Limited&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/s</description>
+      <pubDate>Thu, 15 Oct 2026 12:31:23 +0000</pubDate>
+      <guid isPermaLink="true">https://vinyltap.co.uk/products/live-at-jongleurs-0700595</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Continue Here (Mono Remastered)</title>
+      <link>https://sisterray.co.uk/products/continue-here-mono-remastered</link>
+      <description>Sister Ray Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0096/1884/9839/files/zom.jpg?v=1792067332&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;TEN&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;The Zombies&lt;br /&gt;
+        &lt;strong&gt;Pri</description>
+      <pubDate>Thu, 15 Oct 2026 12:30:26 +0000</pubDate>
+      <guid isPermaLink="true">https://sisterray.co.uk/products/continue-here-mono-remastered</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Hitch-Hiker&#x27;s Guide To The Galaxy - Restaurant At The End Of The Universe - Lp</title>
+      <link>https://vinyltap.co.uk/products/restaurant-at-the-end-of-the-universe-0579569</link>
+      <description>Vinyl Tap: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/7888/5971/files/f2a327f726b1a30914984fac6881803e.jpg?v=1792067247&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Vinyl Tap Limited&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/s</description>
+      <pubDate>Thu, 15 Oct 2026 12:27:27 +0000</pubDate>
+      <guid isPermaLink="true">https://vinyltap.co.uk/products/restaurant-at-the-end-of-the-universe-0579569</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] GANS (Self Titled) Vinyl LP Due Out 26/02/26</title>
+      <link>https://assai.co.uk/products/gans-self-titled-vinyl-lp-due-out-26-02-26</link>
+      <description>Assai Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1565/5653/files/ca3bdd98201742b8b153ba17f9b14a9f.jpg?v=1790586205&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Assai Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Vin</description>
+      <pubDate>Thu, 15 Oct 2026 12:27:03 +0000</pubDate>
+      <guid isPermaLink="true">https://assai.co.uk/products/gans-self-titled-vinyl-lp-due-out-26-02-26</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Beverly Glenn-Copeland Keyboard Fantasies (40th Anniversary Edition) Vinyl LP Transparent Colour Due Out 27/11/26</title>
+      <link>https://assai.co.uk/products/beverly-glenn-copeland-keyboard-fantasies-40th-anniversary-edition-vinyl-lp-transparent-colour-due-out-27-11-26</link>
+      <description>Assai Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1565/5653/files/c57a61e294a94fa29251ce1a8107444f.jpg?v=1789401132&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Assai Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Vin</description>
+      <pubDate>Thu, 15 Oct 2026 12:17:03 +0000</pubDate>
+      <guid isPermaLink="true">https://assai.co.uk/products/beverly-glenn-copeland-keyboard-fantasies-40th-anniversary-edition-vinyl-lp-transparent-colour-due-out-27-11-26</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Ironheart - Running Away - 12 Inch</title>
+      <link>https://vinyltap.co.uk/products/running-away-01066712</link>
+      <description>Vinyl Tap: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/7888/5971/files/6e00b73390026cce2c30dabab6cb7a57.jpg?v=1792066461&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Vinyl Tap Limited&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/s</description>
+      <pubDate>Thu, 15 Oct 2026 12:14:21 +0000</pubDate>
+      <guid isPermaLink="true">https://vinyltap.co.uk/products/running-away-01066712</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Mingus Mingus Mingus Mingus Mingus (Essential Vinyl Series)</title>
+      <link>https://sisterray.co.uk/products/mingus-mingus-mingus-mingus-mingus-essential-vinyl-series</link>
+      <description>Sister Ray Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0096/1884/9839/files/MingusMingusMingus_881061004820_ProductShot.jpg?v=1787396694&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;UNIVERSAL&lt;br /&gt;
+        &lt;strong&gt;Type: </description>
+      <pubDate>Thu, 15 Oct 2026 11:57:39 +0000</pubDate>
+      <guid isPermaLink="true">https://sisterray.co.uk/products/mingus-mingus-mingus-mingus-mingus-essential-vinyl-series</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] You</title>
+      <link>https://sisterray.co.uk/products/you-5</link>
+      <description>Sister Ray Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0096/1884/9839/files/PERMVAC3811.jpg?v=1788876095&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;SRD&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Joe Goddard&lt;br /&gt;
+        &lt;st</description>
+      <pubDate>Thu, 15 Oct 2026 11:39:17 +0000</pubDate>
+      <guid isPermaLink="true">https://sisterray.co.uk/products/you-5</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] 13th Floor Elevators - The Mono Singles (Anniversary Edition) [RSD Black Friday 2026]</title>
+      <link>https://monorailmusic.com/products/13th-floor-elevators-the-mono-singles-anniversary-edition-rsd-black-friday-2026</link>
+      <description>Monorail Music Online: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1000/6088/9430/files/418467327030_800.png?v=1792062637&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;INTERNATIONAL ARTISTS&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Music&lt;</description>
+      <pubDate>Thu, 15 Oct 2026 11:10:32 +0000</pubDate>
+      <guid isPermaLink="true">https://monorailmusic.com/products/13th-floor-elevators-the-mono-singles-anniversary-edition-rsd-black-friday-2026</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Affinity With Linda Hoyle - Affinity With Linda Hoyle [RSD Black Friday 2026]</title>
+      <link>https://monorailmusic.com/products/affinity-with-linda-hoyle-affinity-with-linda-hoyle-rsd-black-friday-2026</link>
+      <description>Monorail Music Online: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1000/6088/9430/files/8054757320685.png?v=1792062588&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;BONFIRE&lt;br /&gt;
         &lt;strong&gt;Type: &lt;/strong&gt;Music&lt;br /&gt;
+        &lt;st</description>
+      <pubDate>Thu, 15 Oct 2026 11:09:44 +0000</pubDate>
+      <guid isPermaLink="true">https://monorailmusic.com/products/affinity-with-linda-hoyle-affinity-with-linda-hoyle-rsd-black-friday-2026</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Blue Horizon - Blue Horizon  [RSD Black Friday 2026]</title>
+      <link>https://monorailmusic.com/products/blue-horizon-blue-horizon-rsd-black-friday-2026</link>
+      <description>Monorail Music Online: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1000/6088/9430/files/8054757320678.png?v=1792062539&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;BONFIRE&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Music&lt;br /&gt;
+        &lt;st</description>
+      <pubDate>Thu, 15 Oct 2026 11:08:55 +0000</pubDate>
+      <guid isPermaLink="true">https://monorailmusic.com/products/blue-horizon-blue-horizon-rsd-black-friday-2026</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Madonna &amp; Kylie Love Sensation (Afterhours Mix) 7&quot;&quot; Vinyl Single Clear Transparent Colour Due Out 16/10/26</title>
+      <link>https://assai.co.uk/products/madonna-kylie-love-sensation-afterhours-mix-7-vinyl-single-clear-transparent-colour-due-out-16-10-27</link>
+      <description>Assai Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1565/5653/files/8492be49ad044fa88a3ce4f02391a874_eee5e801-88a6-4b4e-ae1c-d818e6af2fb3.png?v=1792062371&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Assai Records&lt;br </description>
+      <pubDate>Thu, 15 Oct 2026 11:06:06 +0000</pubDate>
+      <guid isPermaLink="true">https://assai.co.uk/products/madonna-kylie-love-sensation-afterhours-mix-7-vinyl-single-clear-transparent-colour-due-out-16-10-27</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] PÉNITENT - Te Veut Ivre 12&quot; EP</title>
+      <link>https://www.cryptofthewizard.com/products/penitent-te-veut-ivre-12-ep</link>
+      <description>Crypt of the Wizard: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0337/6689/9845/files/a3994913625_10.jpg?v=1792061612&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Gates of Hell&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
+ </description>
+      <pubDate>Thu, 15 Oct 2026 10:55:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cryptofthewizard.com/products/penitent-te-veut-ivre-12-ep</guid>
+    </item>
+    <item>
+      <title>[International] Pairi Daeza: Phosphene Island - VINYL LP</title>
+      <link>https://tower.com/products/pairi-daeza-phosphene-island-vinyl-lp</link>
+      <description>Tower Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2976/0132/files/4550364-3738936.jpg?v=1792061522&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Pairi Daeza&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;VINYL LP&lt;br /&gt;
+       </description>
+      <pubDate>Thu, 15 Oct 2026 10:52:01 +0000</pubDate>
+      <guid isPermaLink="true">https://tower.com/products/pairi-daeza-phosphene-island-vinyl-lp</guid>
+    </item>
+    <item>
+      <title>[International] The Smiths: Strangeways, Here We Come - COMPACT DISCS</title>
+      <link>https://tower.com/products/the-smiths-strangeways-here-we-come-compact-discs</link>
+      <description>Tower Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2976/0132/files/4386824-3725986.jpg?v=1792061521&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;The Smiths&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
+        &lt;stron</description>
+      <pubDate>Thu, 15 Oct 2026 10:52:00 +0000</pubDate>
+      <guid isPermaLink="true">https://tower.com/products/the-smiths-strangeways-here-we-come-compact-discs</guid>
+    </item>
+    <item>
+      <title>[International] Steve Davis: Meets Hank Jones, Volume 2 - VINYL LP</title>
+      <link>https://tower.com/products/steve-davis-meets-hank-jones-volume-2-vinyl-lp</link>
+      <description>Tower Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2976/0132/files/4550287-3738891.jpg?v=1792061520&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Steve Davis&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;VINYL LP&lt;br /&gt;
+       </description>
+      <pubDate>Thu, 15 Oct 2026 10:51:59 +0000</pubDate>
+      <guid isPermaLink="true">https://tower.com/products/steve-davis-meets-hank-jones-volume-2-vinyl-lp</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Eternal Champion - Friends of War 12&#x27; EP</title>
+      <link>https://www.cryptofthewizard.com/products/mindless-sinner-turn-on-the-power-lp-copy</link>
+      <description>Crypt of the Wizard: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0337/6689/9845/files/a379821271_1x1_700.avif?v=1792061230&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;No Remorse Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quo</description>
+      <pubDate>Thu, 15 Oct 2026 10:51:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cryptofthewizard.com/products/mindless-sinner-turn-on-the-power-lp-copy</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Mindless Sinner - Turn On the Power LP</title>
+      <link>https://www.cryptofthewizard.com/products/mindless-sinner-turn-on-the-power-lp</link>
+      <description>Crypt of the Wizard: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0337/6689/9845/files/a3034763099_10.jpg?v=1792061028&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;High Roller Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;b</description>
+      <pubDate>Thu, 15 Oct 2026 10:45:12 +0000</pubDate>
+      <guid isPermaLink="true">https://www.cryptofthewizard.com/products/mindless-sinner-turn-on-the-power-lp</guid>
+    </item>
+    <item>
+      <title>[United States] Pre-Order: Live at the Whisky-A-Go-Go [Red / Tan / Black Haze Splatter] - Sponge</title>
+      <link>https://omegamusicdayton.com/products/pre-order-live-at-the-whisky-a-go-go-red-tan-black-haze-splatter-sponge</link>
+      <description>Omega Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0791/5539/6826/files/4550406-3739662.jpg?v=1792060126&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Omega Music Shopify&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;
+</description>
+      <pubDate>Thu, 15 Oct 2026 10:28:46 +0000</pubDate>
+      <guid isPermaLink="true">https://omegamusicdayton.com/products/pre-order-live-at-the-whisky-a-go-go-red-tan-black-haze-splatter-sponge</guid>
+    </item>
+    <item>
+      <title>[United States] Pre-Order: Masters Of The Universe - O.S.T. [Colored Vinyl] (Org) - Daniel Pemberton  (Colv) (Org)</title>
+      <link>https://omegamusicdayton.com/products/pre-order-masters-of-the-universe-o-s-t-colored-vinyl-org-daniel-pemberton-colv-org</link>
+      <description>Omega Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://omegamusicdayton.com/collections/all.atom&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Omega Music Shopify&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;
+        &lt;strong&gt;Price: &lt;/strong&gt;
+     </description>
+      <pubDate>Thu, 15 Oct 2026 09:31:30 +0000</pubDate>
+      <guid isPermaLink="true">https://omegamusicdayton.com/products/pre-order-masters-of-the-universe-o-s-t-colored-vinyl-org-daniel-pemberton-colv-org</guid>
+    </item>
+    <item>
+      <title>[United States] Pre-Order: Dismals - Dismals [LP]</title>
+      <link>https://omegamusicdayton.com/products/pre-order-dismals-dismals-lp</link>
+      <description>Omega Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0791/5539/6826/files/4550425-3739739.jpg?v=1792060283&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Omega Music Shopify&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;
+</description>
+      <pubDate>Thu, 15 Oct 2026 09:31:13 +0000</pubDate>
+      <guid isPermaLink="true">https://omegamusicdayton.com/products/pre-order-dismals-dismals-lp</guid>
+    </item>
+    <item>
+      <title>[International] Freebird Records T-Shirt</title>
+      <link>https://freebirdrecords.com/products/freebird-records-t-shirt</link>
+      <description>Freebird Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1481/5374/files/IMG_5439.heic?v=1747389319&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;FREEBIRD RECORDS&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Freebird - T-Shirt&lt;br /</description>
+      <pubDate>Thu, 15 Oct 2026 09:14:49 +0000</pubDate>
+      <guid isPermaLink="true">https://freebirdrecords.com/products/freebird-records-t-shirt</guid>
+    </item>
+    <item>
+      <title>[International] Freebird Records Tote Bag</title>
+      <link>https://freebirdrecords.com/products/freebird-records-tote-bag</link>
+      <description>Freebird Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1481/5374/files/IMG_5448.heic?v=1747063896&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;FREEBIRD RECORDS&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Tote Bags&lt;br /&gt;
+       </description>
+      <pubDate>Thu, 15 Oct 2026 09:13:47 +0000</pubDate>
+      <guid isPermaLink="true">https://freebirdrecords.com/products/freebird-records-tote-bag</guid>
+    </item>
+    <item>
+      <title>[International] Cymande - Second Time Round (Vinyl)</title>
+      <link>https://www.flyingnun.co.nz/products/cymande-second-time-round-vinyl</link>
+      <description>Flying Nun Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0450/3165/3527/files/unnamed_22_1e370bce-20ae-4d46-b6ca-1bde92e73b4f.jpg?v=1792051892&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Cymande&lt;br /&gt;
+        &lt;strong&gt;Type</description>
+      <pubDate>Thu, 15 Oct 2026 08:12:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.flyingnun.co.nz/products/cymande-second-time-round-vinyl</guid>
+    </item>
+    <item>
+      <title>[International] Gerling - When Young Terrorists Chase The Sun (25th Anniversary Edition) (Vinyl)</title>
+      <link>https://www.flyingnun.co.nz/products/gerling-when-young-terrorists-chase-the-sun-25th-anniversary-edition-vinyl</link>
+      <description>Flying Nun Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0450/3165/3527/files/Gerling_-_When_Young_Terrorists_Chase_The_Sun_25th_Anniversary_Edition_Vinyl.jpg?v=1792051688&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Gerli</description>
+      <pubDate>Thu, 15 Oct 2026 08:08:43 +0000</pubDate>
+      <guid isPermaLink="true">https://www.flyingnun.co.nz/products/gerling-when-young-terrorists-chase-the-sun-25th-anniversary-edition-vinyl</guid>
+    </item>
+    <item>
+      <title>[International] Yeah Yeah Yeahs - Hidden In Pieces Live at the Royal Albert Hall (Vinyl)</title>
+      <link>https://www.flyingnun.co.nz/products/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall-vinyl</link>
+      <description>Flying Nun Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0450/3165/3527/files/YYeah_Yeah_Yeahs_-_Hidden_In_Pieces_Live_at_the_Royal_Albert_Hall_Vinyl.jpg?v=1792051409&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Yeah Yeah </description>
+      <pubDate>Thu, 15 Oct 2026 08:03:53 +0000</pubDate>
+      <guid isPermaLink="true">https://www.flyingnun.co.nz/products/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall-vinyl</guid>
+    </item>
+    <item>
+      <title>[International] ADELA | PRIMA (PINK EDITION) (VINYL)</title>
+      <link>https://realgroovy.com/products/881061081234-prima</link>
+      <description>Real Groovy: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0825/5186/5644/files/4528451-3697603.jpg?v=1788918874&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;ALLIANCE ENTERTAINMENT LLC&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP</description>
+      <pubDate>Thu, 15 Oct 2026 07:10:49 +0000</pubDate>
+      <guid isPermaLink="true">https://realgroovy.com/products/881061081234-prima</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Blondie - High Noon</title>
+      <link>https://davids-music.co.uk/products/blondie-high-noon</link>
+      <description>David&#x27;s Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0378/1623/8217/files/blondie_sleeve.jpg?v=1791995131&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;UNIVERSAL&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
+        &lt;stro</description>
+      <pubDate>Thu, 15 Oct 2026 07:00:04 +0000</pubDate>
+      <guid isPermaLink="true">https://davids-music.co.uk/products/blondie-high-noon</guid>
+    </item>
+    <item>
+      <title>[International] GRETA VAN FLEET | PALACE FOR THE PEOPLE (ORACLE 2LP EDITION) (VINYL)</title>
+      <link>https://realgroovy.com/products/881061081364-palace-for-the-people-oracle-2lp-edition-vinyl</link>
+      <description>Real Groovy: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0825/5186/5644/files/4533015-3684472.jpg?v=1792046438&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;ALLIANCE ENTERTAINMENT LLC&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP</description>
+      <pubDate>Thu, 15 Oct 2026 06:40:34 +0000</pubDate>
+      <guid isPermaLink="true">https://realgroovy.com/products/881061081364-palace-for-the-people-oracle-2lp-edition-vinyl</guid>
+    </item>
+    <item>
+      <title>[International] MADLIB | WLIB AM - KING OF THE WIGFLIP (2LP) (VINYL)</title>
+      <link>https://realgroovy.com/products/198588759264-wlib-am-king-of-the-wigflip-2lp-vinyl</link>
+      <description>Real Groovy: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0825/5186/5644/files/4433646-3403686.jpg?v=1792046329&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;ALLIANCE ENTERTAINMENT LLC&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP</description>
+      <pubDate>Thu, 15 Oct 2026 06:38:45 +0000</pubDate>
+      <guid isPermaLink="true">https://realgroovy.com/products/198588759264-wlib-am-king-of-the-wigflip-2lp-vinyl</guid>
+    </item>
+    <item>
+      <title>[United States] Roland TD-07KV2 V-Drums 5-Piece Electronic Drum Kit w/ Larger Pads</title>
+      <link>https://www.chicagomusicexchange.com/products/roland-td-07kv2-v-drums-5-piece-electronic-drum-kit-2711168</link>
+      <description>Chicago Music Exchange: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0343/4368/2183/files/roland-electronic-percussion-roland-td-07kv2-v-drums-5-piece-electronic-drum-kit-w-larger-pads-roland-td-07kv2-v-drums-5-piece-electronic-drum-kit-w-larger-pads-td-07kv2-1262640701.jpg?v=17</description>
+      <pubDate>Thu, 15 Oct 2026 06:09:41 +0000</pubDate>
+      <guid isPermaLink="true">https://www.chicagomusicexchange.com/products/roland-td-07kv2-v-drums-5-piece-electronic-drum-kit-2711168</guid>
+    </item>
+    <item>
+      <title>[United States] Roland TD-07DMK2 V-Drums 5-Piece Electronic Drum Kit w/ Compact Pads</title>
+      <link>https://www.chicagomusicexchange.com/products/roland-td-07dmk2-v-drums-5-piece-electronic-drum-kit-2711167</link>
+      <description>Chicago Music Exchange: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0343/4368/2183/files/roland-electronic-percussion-roland-td-07dmk2-v-drums-5-piece-electronic-drum-kit-w-compact-pads-roland-td-07dmk2-v-drums-5-piece-electronic-drum-kit-w-compact-pads-td-07dmk2-1262640697.jpg</description>
+      <pubDate>Thu, 15 Oct 2026 06:09:39 +0000</pubDate>
+      <guid isPermaLink="true">https://www.chicagomusicexchange.com/products/roland-td-07dmk2-v-drums-5-piece-electronic-drum-kit-2711167</guid>
+    </item>
+    <item>
+      <title>[United States] Pre-Order: Ok Goodnight - Stop / Go [LP]</title>
+      <link>https://waterloorecords.com/products/pre-order-ok-goodnight-stop-go-lp</link>
+      <description>Waterloo Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0933/3833/7576/files/4550237-3738898.jpg?v=1792040458&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Kscope&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl&lt;br /&gt;
+        &lt;s</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://waterloorecords.com/products/pre-order-ok-goodnight-stop-go-lp</guid>
+    </item>
+    <item>
+      <title>[United States] Pre-Order: Vital Remains - Let Us Pray [CD]</title>
+      <link>https://waterloorecords.com/products/pre-order-vital-remains-let-us-pray-cd</link>
+      <description>Waterloo Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0933/3833/7576/files/4550266-3738894.jpg?v=1792040458&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Peaceville&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
+        &lt;</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://waterloorecords.com/products/pre-order-vital-remains-let-us-pray-cd</guid>
+    </item>
+    <item>
+      <title>[United States] Pre-Order: Heavy Trip - Liquid Planet [LP]</title>
+      <link>https://waterloorecords.com/products/pre-order-heavy-trip-liquid-planet-lp</link>
+      <description>Waterloo Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0933/3833/7576/files/4550270-3738920.jpg?v=1792040458&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Roadburn Productions&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl&lt;br</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://waterloorecords.com/products/pre-order-heavy-trip-liquid-planet-lp</guid>
+    </item>
+    <item>
+      <title>[United States] Gibson Logo Trucker Hat, Camo, Exclusive</title>
+      <link>https://www.gibson.com/products/gibson-logo-trucker-hat-camo-exclusive</link>
+      <description>Gibson Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0659/3966/9171/files/GA-TRHT-GIB-CAMO_1_Front.png?v=1785519915&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Gibson&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Headwear&lt;br /</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.gibson.com/products/gibson-logo-trucker-hat-camo-exclusive</guid>
+    </item>
+    <item>
+      <title>[United States] Gibson Script Logo Guitar Strap Structured Snapback, Jacquard, Exclusive</title>
+      <link>https://www.gibson.com/products/gibson-script-logo-guitar-strap-structured-snapback-jacquard-exclusive</link>
+      <description>Gibson Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0659/3966/9171/files/GA-SSNBK-STRP-JQRD_1_Front.png?v=1785519326&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Gibson&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Headwear&lt;br</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.gibson.com/products/gibson-script-logo-guitar-strap-structured-snapback-jacquard-exclusive</guid>
+    </item>
+    <item>
+      <title>[United States] Gibson Tonal Structured Snapback, Black, Exclusive</title>
+      <link>https://www.gibson.com/products/gibson-tonal-structured-snapback-black-exclusive</link>
+      <description>Gibson Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0659/3966/9171/files/GA-TRHT-GIB-BLK_1_Front.png?v=1785519881&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Gibson&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Headwear&lt;br /&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 05:00:09 +0000</pubDate>
+      <guid isPermaLink="true">https://www.gibson.com/products/gibson-tonal-structured-snapback-black-exclusive</guid>
+    </item>
+    <item>
+      <title>[United States] IK Multimedia Arc Studio + Studio Acoustic Correction Processor</title>
+      <link>https://www.chicagomusicexchange.com/products/ik-multimedia-arc-studio-studio-acoustic-correction-2695053</link>
+      <description>Chicago Music Exchange: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0343/4368/2183/files/ik-multimedia-signal-processors-ik-multimedia-arc-studio-studio-acoustic-correction-processor-ik-multimedia-arc-studio-studio-acoustic-correction-processor-ip-arc-studioplus-in-1262511713.j</description>
+      <pubDate>Thu, 15 Oct 2026 03:38:47 +0000</pubDate>
+      <guid isPermaLink="true">https://www.chicagomusicexchange.com/products/ik-multimedia-arc-studio-studio-acoustic-correction-2695053</guid>
+    </item>
+    <item>
+      <title>[Canada] NAD C658 BluOS</title>
+      <link>https://www.soundhounds.com/products/nad-c658-bluos</link>
+      <description>Sound Hounds: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0023/3845/5667/files/IMG_8910.heic?v=1792011453&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;soundhounds&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
+        &lt;strong&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 01:13:25 +0000</pubDate>
+      <guid isPermaLink="true">https://www.soundhounds.com/products/nad-c658-bluos</guid>
+    </item>
+    <item>
+      <title>[United States] Retro Logo Grey Pullover Hoodie Sweatshirt</title>
+      <link>https://megamart.subpop.com/products/retro-logo-grey-pullover-hoodie-sweatshirt</link>
+      <description>Sub Pop Mega Mart: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0110/1882/9920/files/RetroLogo_GraphiteHeather_Front.jpg?v=1741892889&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Sub Pop&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Sweat</description>
+      <pubDate>Wed, 14 Oct 2026 23:42:38 +0000</pubDate>
+      <guid isPermaLink="true">https://megamart.subpop.com/products/retro-logo-grey-pullover-hoodie-sweatshirt</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] BALL x PIT (Deluxe Double Vinyl)</title>
+      <link>https://www.lacedrecords.com/products/ball-x-pit-deluxe-double-vinyl</link>
+      <description>Laced Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1226/8710/files/BALLXPIT-2LP_SLIPMAT-FRONT_STORE.jpg?v=1791987881&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Laced Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br</description>
+      <pubDate>Wed, 14 Oct 2026 23:40:30 +0000</pubDate>
+      <guid isPermaLink="true">https://www.lacedrecords.com/products/ball-x-pit-deluxe-double-vinyl</guid>
+    </item>
+    <item>
+      <title>[United States] Florence And The Machine-Everybody Scream</title>
+      <link>https://carolinasoul.com/products/florence-and-the-machine-everybody-scream</link>
+      <description>Carolina Soul: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0813/9486/0332/files/35529886_1.jpg?v=1792019799&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Alliance&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Rock&lt;br /&gt;
+        &lt;stron</description>
+      <pubDate>Wed, 14 Oct 2026 23:16:32 +0000</pubDate>
+      <guid isPermaLink="true">https://carolinasoul.com/products/florence-and-the-machine-everybody-scream</guid>
+    </item>
+    <item>
+      <title>[International] Amon Tobin / Cujo / Two Fingers: Nomark Selects V.2 (Vinyl LP)</title>
+      <link>https://freebirdrecords.com/products/amon-tobin-cujo-two-fingers-nomark-selects-v-2-vinyl-lp</link>
+      <description>Freebird Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1481/5374/files/various-nomark-selects-v2.png?v=1750414359&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;NOMARK&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Music&lt;br /&gt;
+     </description>
+      <pubDate>Wed, 14 Oct 2026 23:05:01 +0000</pubDate>
+      <guid isPermaLink="true">https://freebirdrecords.com/products/amon-tobin-cujo-two-fingers-nomark-selects-v-2-vinyl-lp</guid>
+    </item>
+    <item>
+      <title>[United States] Nina Volcan - Macondo (New Vinyl)</title>
+      <link>https://www.sonicboommusic.com/products/nina-volcan-macondo-new-vinyl</link>
+      <description>Sonic Boom Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0094/8718/8015/files/Nina-Volcan-Macondo-New-Vinyl.jpg?v=1792037041&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Consignment&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;New</description>
+      <pubDate>Wed, 14 Oct 2026 22:58:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.sonicboommusic.com/products/nina-volcan-macondo-new-vinyl</guid>
+    </item>
+    <item>
+      <title>[United States] Banana Slug Cowboy Enamel Magnet</title>
+      <link>https://tenderlovingempire.com/products/banana-slug-cowboy-enamel-magnet</link>
+      <description>Tender Loving Empire Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1193/8946/files/CG_BananaSlugCowboy_EnamelMagnet_01.jpg?v=1747331501&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Tender Loving Empire&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/</description>
+      <pubDate>Wed, 14 Oct 2026 22:30:18 +0000</pubDate>
+      <guid isPermaLink="true">https://tenderlovingempire.com/products/banana-slug-cowboy-enamel-magnet</guid>
+    </item>
+    <item>
+      <title>[United States] AfroMagic Vol.1 – Hypnotic Grooves &amp; Ecstatic Moves: Deep Dancefloor Jams of African Disco, Funk, Boogie, Reggae &amp; Proto House Music 1976-1981</title>
+      <link>https://lightintheattic.net/products/afromagic-vol-1-hypnotic-grooves-ecstatic-moves-deep-dancefloor-jams-of-african-disco-funk-boogie-reggae-proto-house-music-1976-1981</link>
+      <description>Light in the Attic Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0080/6417/2096/files/tmp_2F1683748886803-diupkwvgu0f-a3862c51046284c9d7ffc829bc7716e2_2FEverland-Afro-004_AfroMagic-vol.1_front.jpg?v=1690532192&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        </description>
+      <pubDate>Wed, 14 Oct 2026 21:53:24 +0000</pubDate>
+      <guid isPermaLink="true">https://lightintheattic.net/products/afromagic-vol-1-hypnotic-grooves-ecstatic-moves-deep-dancefloor-jams-of-african-disco-funk-boogie-reggae-proto-house-music-1976-1981</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Zeynep Toraman</title>
+      <link>https://www.anothertimbre.com/products/sylvia-lim-copy</link>
+      <description>Another Timbre: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0740/3631/4426/files/at258_front_cover.jpg?v=1791816602&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Another Timbre&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
+     </description>
+      <pubDate>Wed, 14 Oct 2026 21:52:56 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anothertimbre.com/products/sylvia-lim-copy</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Timothy McCormack</title>
+      <link>https://www.anothertimbre.com/products/timothy-mccormack</link>
+      <description>Another Timbre: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0740/3631/4426/files/at259_front_cover.jpg?v=1791816630&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Another Timbre&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
+     </description>
+      <pubDate>Wed, 14 Oct 2026 21:52:36 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anothertimbre.com/products/timothy-mccormack</guid>
+    </item>
+    <item>
+      <title>[United States] Return To The City Of Djinn</title>
+      <link>https://lightintheattic.net/products/return-to-the-city-of-djinn</link>
+      <description>Light in the Attic Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0080/6417/2096/files/710473186612.jpg?v=1755043624&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Other Voices Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Album&lt;br /&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 21:52:28 +0000</pubDate>
+      <guid isPermaLink="true">https://lightintheattic.net/products/return-to-the-city-of-djinn</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Magnus Granberg</title>
+      <link>https://www.anothertimbre.com/products/james-creed-copy</link>
+      <description>Another Timbre: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0740/3631/4426/files/at260_front_cover.jpg?v=1791816883&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Another Timbre&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
+     </description>
+      <pubDate>Wed, 14 Oct 2026 21:52:13 +0000</pubDate>
+      <guid isPermaLink="true">https://www.anothertimbre.com/products/james-creed-copy</guid>
+    </item>
+    <item>
+      <title>[United States] NeoTokyo (OST)</title>
+      <link>https://lightintheattic.net/products/neotokyo-ost</link>
+      <description>Light in the Attic Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0080/6417/2096/files/710473186025.jpg?v=1755043551&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Stumpy Frog&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Album&lt;br /&gt;
+        </description>
+      <pubDate>Wed, 14 Oct 2026 21:52:01 +0000</pubDate>
+      <guid isPermaLink="true">https://lightintheattic.net/products/neotokyo-ost</guid>
+    </item>
+    <item>
+      <title>[United States] Sunburst Mermaid Enamel Magnet</title>
+      <link>https://tenderlovingempire.com/products/sunburst-mermaid-enamel-magnet</link>
+      <description>Tender Loving Empire Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1193/8946/files/CG_SunburstMermaid_EnamelMagnet_01.jpg?v=1747331804&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Tender Loving Empire&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/s</description>
+      <pubDate>Wed, 14 Oct 2026 21:44:10 +0000</pubDate>
+      <guid isPermaLink="true">https://tenderlovingempire.com/products/sunburst-mermaid-enamel-magnet</guid>
+    </item>
+    <item>
+      <title>[United States] Retro Oregon Enamel Magnet</title>
+      <link>https://tenderlovingempire.com/products/retro-oregon-enamel-magnet</link>
+      <description>Tender Loving Empire Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1193/8946/files/TLE_Enamel-Magnet_Retro-Oregon_01.jpg?v=1775858996&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Tender Loving Empire&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/st</description>
+      <pubDate>Wed, 14 Oct 2026 21:44:08 +0000</pubDate>
+      <guid isPermaLink="true">https://tenderlovingempire.com/products/retro-oregon-enamel-magnet</guid>
+    </item>
+    <item>
+      <title>[United States] Azalea Pink Tartan - Big Baggu Reusable Bag</title>
+      <link>https://www.sonicboommusic.com/products/azalea-pink-tartan-big-baggu-reusable-bag</link>
+      <description>Sonic Boom Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://www.sonicboommusic.com/collections/all.atom&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Baggu&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Lifestyle&lt;br /&gt;
         &lt;strong&gt;Price: &lt;/strong&gt;
           </description>
-      <pubDate>Wed, 14 Oct 2026 12:43:28 +0000</pubDate>
-      <guid isPermaLink="true">https://monorailmusic.com/products/the-feelies-the-good-earth</guid>
+      <pubDate>Wed, 14 Oct 2026 21:19:21 +0000</pubDate>
+      <guid isPermaLink="true">https://www.sonicboommusic.com/products/azalea-pink-tartan-big-baggu-reusable-bag</guid>
     </item>
     <item>
-      <title>[United Kingdom] Neil Young &amp; The Chrome Hearts - As Time Explodes - Double Lp</title>
-      <link>https://vinyltap.co.uk/products/as-time-explodes-01066538</link>
-      <description>Vinyl Tap: &lt;table border=&quot;0&quot;&gt;
+      <title>[United States] Cactus - Auxiliary Studios 1971 (Red/Black/Marble Double Vinyl LP)</title>
+      <link>https://cleorecs.com/products/cactus-auxiliary-studios-1971-red-black-marble-double-vinyl-lp</link>
+      <description>Purple Pyramid Records: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/7888/5971/files/200d7d64fe7cf220ab55e771980bf540.jpg?v=1791981806&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0868/3379/1287/files/CLO7615LP-BKRD-MAR-1.png?v=1792011398&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Vinyl Tap Limited&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/s</description>
-      <pubDate>Wed, 14 Oct 2026 12:43:26 +0000</pubDate>
-      <guid isPermaLink="true">https://vinyltap.co.uk/products/as-time-explodes-01066538</guid>
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Cleopatra Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br </description>
+      <pubDate>Wed, 14 Oct 2026 21:05:43 +0000</pubDate>
+      <guid isPermaLink="true">https://cleorecs.com/products/cactus-auxiliary-studios-1971-red-black-marble-double-vinyl-lp</guid>
     </item>
     <item>
-      <title>[International] Donal Gallagher - Edged In Blue - A Rock&#x27;N&#x27;Roll Odyssey With Rory Gallagher</title>
-      <link>https://spindizzyrecords.com/products/donal-gallagher-edged-in-blue-a-rocknroll-odyssey-with-rory-gallagher</link>
-      <description>Spin Dizzy Records: &lt;table border=&quot;0&quot;&gt;
+      <title>[United States] Sasha &amp; John Digweed: Northern Exposure Redux - South (Indie Exclusive) Vinyl 2LP</title>
+      <link>https://www.turntablelab.com/products/sasha-john-digweed-northern-exposure-redux-south-indie-exclusive-vinyl-2lp</link>
+      <description>Turntable Lab: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/3455/0945/files/9781786052537_5643513100.jpg?v=1791981680&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0105/4542/files/processing.png?v=1776447994&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Spindizzy Dublin&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Boo</description>
-      <pubDate>Wed, 14 Oct 2026 12:43:25 +0000</pubDate>
-      <guid isPermaLink="true">https://spindizzyrecords.com/products/donal-gallagher-edged-in-blue-a-rocknroll-odyssey-with-rory-gallagher</guid>
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Sasha &amp;amp; John Digweed&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;_1preview-musi</description>
+      <pubDate>Wed, 14 Oct 2026 20:52:08 +0000</pubDate>
+      <guid isPermaLink="true">https://www.turntablelab.com/products/sasha-john-digweed-northern-exposure-redux-south-indie-exclusive-vinyl-2lp</guid>
     </item>
     <item>
-      <title>[United Kingdom] Bill Wells &amp; Maher Shalal Has Baz - Gok</title>
-      <link>https://monorailmusic.com/products/bill-wells-maher-shalal-has-baz-gok</link>
-      <description>Monorail Music Online: &lt;table border=&quot;0&quot;&gt;
+      <title>[United States] Rita Lee: Rita Lee - 1979 (180g, Colored Vinyl) Vinyl LP</title>
+      <link>https://www.turntablelab.com/products/rita-lee-rita-lee-1979-180g-colored-vinyl-vinyl-lp</link>
+      <description>Turntable Lab: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1000/6088/9430/files/bill_wells_maher_shalal_hash_baz_gok_packshot.png?v=1791981750&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0105/4542/files/processing.png?v=1776447994&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Geographic&lt;br /&gt;
-        &lt;strong&gt;Typ</description>
-      <pubDate>Wed, 14 Oct 2026 12:42:25 +0000</pubDate>
-      <guid isPermaLink="true">https://monorailmusic.com/products/bill-wells-maher-shalal-has-baz-gok</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Elvis Presley - Epic: Elvis Presley In Concert - Original Motion Picture Soundtrack - Double Lp</title>
-      <link>https://vinyltap.co.uk/products/epic-elvis-presley-in-concert-original-motion-picture-soundtrack-01066537</link>
-      <description>Vinyl Tap: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/7888/5971/files/ecd55360ff44ea92c298b147b400e627.jpg?v=1791981709&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Vinyl Tap Limited&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/s</description>
-      <pubDate>Wed, 14 Oct 2026 12:41:49 +0000</pubDate>
-      <guid isPermaLink="true">https://vinyltap.co.uk/products/epic-elvis-presley-in-concert-original-motion-picture-soundtrack-01066537</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] The Remixes</title>
-      <link>https://sisterray.co.uk/products/the-remixes-5</link>
-      <description>Sister Ray Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0096/1884/9839/files/foul.jpg?v=1791981571&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Prime Direct&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Foul Play&lt;br /&gt;
-        &lt;st</description>
-      <pubDate>Wed, 14 Oct 2026 12:41:43 +0000</pubDate>
-      <guid isPermaLink="true">https://sisterray.co.uk/products/the-remixes-5</guid>
-    </item>
-    <item>
-      <title>[International] Raul Malo - Bella Ciao: Live in Nashville</title>
-      <link>https://spindizzyrecords.com/products/raul-malo-bella-ciao-live-in-nashville</link>
-      <description>Spin Dizzy Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/3455/0945/files/0732388039685.png?v=1791981580&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Mono Mundo B&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Music&lt;br /&gt;
-      </description>
-      <pubDate>Wed, 14 Oct 2026 12:39:35 +0000</pubDate>
-      <guid isPermaLink="true">https://spindizzyrecords.com/products/raul-malo-bella-ciao-live-in-nashville</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] The Tubs - Cotton Crown (2026 reissue)</title>
-      <link>https://monorailmusic.com/products/the-tubs-cotton-crown-2026-reissue</link>
-      <description>Monorail Music Online: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1000/6088/9430/files/CAR_20260909_1230_113230_476_p_download_20260909113035_1_001.jpg?v=1789468624&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;MERGE RECORDS&lt;br /&gt;
- </description>
-      <pubDate>Wed, 14 Oct 2026 12:39:13 +0000</pubDate>
-      <guid isPermaLink="true">https://monorailmusic.com/products/the-tubs-cotton-crown-2026-reissue</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Graham Bonnet - Line-Up - Lp</title>
-      <link>https://vinyltap.co.uk/products/line-up-01066536</link>
-      <description>Vinyl Tap: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/7888/5971/files/0f22d8c68dfd3bb214ee791a09459254.jpg?v=1791981509&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Vinyl Tap Limited&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/s</description>
-      <pubDate>Wed, 14 Oct 2026 12:38:29 +0000</pubDate>
-      <guid isPermaLink="true">https://vinyltap.co.uk/products/line-up-01066536</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Downtown EP Pt. 2</title>
-      <link>https://sisterray.co.uk/products/downtown-ep-pt-2</link>
-      <description>Sister Ray Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0096/1884/9839/files/kerrichandler.jpg?v=1791980992&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Prime Direct&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Kerri Chandler&lt;br </description>
-      <pubDate>Wed, 14 Oct 2026 12:35:11 +0000</pubDate>
-      <guid isPermaLink="true">https://sisterray.co.uk/products/downtown-ep-pt-2</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Machine Girl The Ugly Art Vinyl LP Lightning Purple Colour Due Out 16/10/26</title>
-      <link>https://assai.co.uk/products/machine-girl-the-ugly-art-vinyl-lp-lightning-purple-colour-due-out-16-10-26</link>
-      <description>Assai Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1565/5653/files/14d08fad81884e0bb46c0004c8da3c0e.jpg?v=1788961690&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Assai Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vin</description>
-      <pubDate>Wed, 14 Oct 2026 12:34:03 +0000</pubDate>
-      <guid isPermaLink="true">https://assai.co.uk/products/machine-girl-the-ugly-art-vinyl-lp-lightning-purple-colour-due-out-16-10-26</guid>
-    </item>
-    <item>
-      <title>[United States] Michelle Yeoh - In The Line Of Duty I - IV [BLU-RAY]</title>
-      <link>https://waterloorecords.com/products/michelle-yeoh-in-the-line-of-duty-i-iv-blu-ray</link>
-      <description>Waterloo Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://waterloorecords.com/collections/all.atom&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;541&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;BLU-RAY&lt;br /&gt;
-        &lt;strong&gt;Price: &lt;/strong&gt;
-            57.99</description>
-      <pubDate>Wed, 14 Oct 2026 12:33:59 +0000</pubDate>
-      <guid isPermaLink="true">https://waterloorecords.com/products/michelle-yeoh-in-the-line-of-duty-i-iv-blu-ray</guid>
-    </item>
-    <item>
-      <title>[International] Prong - Prong</title>
-      <link>https://spindizzyrecords.com/products/prong-prong</link>
-      <description>Spin Dizzy Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0588/3455/0945/files/Untitled-Design-26_8787d884-273c-4783-93c2-8137804ff97d.png?v=1791981231&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Napalm Records Handels Gmb</description>
-      <pubDate>Wed, 14 Oct 2026 12:33:46 +0000</pubDate>
-      <guid isPermaLink="true">https://spindizzyrecords.com/products/prong-prong</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Avalanches No Bad Memories Vinyl LP Yellow Colour Due Out 16/10/26</title>
-      <link>https://assai.co.uk/products/avalanches-no-bad-memories-vinyl-lp-yellow-colour-due-out-16-10-26</link>
-      <description>Assai Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1565/5653/files/38a9274bcba542b08738a3b288cfab46.jpg?v=1786028824&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Assai Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vin</description>
-      <pubDate>Wed, 14 Oct 2026 12:33:03 +0000</pubDate>
-      <guid isPermaLink="true">https://assai.co.uk/products/avalanches-no-bad-memories-vinyl-lp-yellow-colour-due-out-16-10-26</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] LINDA LO - Masa (EP) (PRE ORDER: 23/10/26)</title>
-      <link>https://www.easternblocrecords.com/products/linda-lo-masa-ep</link>
-      <description>Eastern Bloc Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0932/7571/7963/files/CS1183643-01A-BIG.jpg?v=1791976665&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Time Is Now&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
-</description>
-      <pubDate>Wed, 14 Oct 2026 12:15:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.easternblocrecords.com/products/linda-lo-masa-ep</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] POD / EDWARD RICHARDS - A Hallucinatory Forest (EP) (PRE ORDER: 13/11/26)</title>
-      <link>https://www.easternblocrecords.com/products/pod-edward-richards-a-hallucinatory-forest-12</link>
-      <description>Eastern Bloc Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0932/7571/7963/files/CS1185681-01A-BIG.jpg?v=1791976654&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Kinetic Vision&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br </description>
-      <pubDate>Wed, 14 Oct 2026 12:15:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.easternblocrecords.com/products/pod-edward-richards-a-hallucinatory-forest-12</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] LAW / RUNDR - Citric Dub (EP) (PRE ORDER)</title>
-      <link>https://www.easternblocrecords.com/products/law-rundr-citric-dub-ep</link>
-      <description>Eastern Bloc Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0932/7571/7963/files/CS1181609-01A-BIG.jpg?v=1791976619&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;R Whites&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
-   </description>
-      <pubDate>Wed, 14 Oct 2026 12:15:26 +0000</pubDate>
-      <guid isPermaLink="true">https://www.easternblocrecords.com/products/law-rundr-citric-dub-ep</guid>
-    </item>
-    <item>
-      <title>[United States] Pre-Order: Marilyn Manson - Antichrist Superstar - 30th Anniversary Edition [Iridescent Red with Gold Swirl]</title>
-      <link>https://waterloorecords.com/products/pre-order-marilyn-manson-antichrist-superstar-30th-anniversary-edition-iridescent-red-with-gold-swirl</link>
-      <description>Waterloo Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0933/3833/7576/files/4547980-3737945.jpg?v=1791979556&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Waxwork Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl&lt;br /&gt;
- </description>
-      <pubDate>Wed, 14 Oct 2026 12:05:56 +0000</pubDate>
-      <guid isPermaLink="true">https://waterloorecords.com/products/pre-order-marilyn-manson-antichrist-superstar-30th-anniversary-edition-iridescent-red-with-gold-swirl</guid>
-    </item>
-    <item>
-      <title>[United States] Pre-Order: Marilyn Manson - Antichrist Superstar - 30th Anniversary Edition [Cassette]</title>
-      <link>https://waterloorecords.com/products/pre-order-marilyn-manson-antichrist-superstar-30th-anniversary-edition-cassette</link>
-      <description>Waterloo Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0933/3833/7576/files/4547981-3737948.jpg?v=1791979556&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Waxwork Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Cassette&lt;br /</description>
-      <pubDate>Wed, 14 Oct 2026 12:05:56 +0000</pubDate>
-      <guid isPermaLink="true">https://waterloorecords.com/products/pre-order-marilyn-manson-antichrist-superstar-30th-anniversary-edition-cassette</guid>
-    </item>
-    <item>
-      <title>[United States] Pre-Order: Antichrist Superstar - 30th Anniversary Edition [Iridescent Red with Gold Swirl] - Marilyn Manson</title>
-      <link>https://omegamusicdayton.com/products/pre-order-antichrist-superstar-30th-anniversary-edition-iridescent-red-with-gold-swirl-marilyn-manson</link>
-      <description>Omega Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0791/5539/6826/files/4547980-3737945.jpg?v=1791979556&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Omega Music Shopify&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;
-</description>
-      <pubDate>Wed, 14 Oct 2026 12:05:56 +0000</pubDate>
-      <guid isPermaLink="true">https://omegamusicdayton.com/products/pre-order-antichrist-superstar-30th-anniversary-edition-iridescent-red-with-gold-swirl-marilyn-manson</guid>
-    </item>
-    <item>
-      <title>[United States] Pre-Order: Antichrist Superstar - 30th Anniversary Edition - Marilyn Manson [Cassette]</title>
-      <link>https://omegamusicdayton.com/products/pre-order-antichrist-superstar-30th-anniversary-edition-marilyn-manson-cassette</link>
-      <description>Omega Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0791/5539/6826/files/4547981-3737948.jpg?v=1791979556&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Omega Music Shopify&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Cassette&lt;</description>
-      <pubDate>Wed, 14 Oct 2026 12:05:56 +0000</pubDate>
-      <guid isPermaLink="true">https://omegamusicdayton.com/products/pre-order-antichrist-superstar-30th-anniversary-edition-marilyn-manson-cassette</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Les Fleur / Oh By the Way (RSD 2020)</title>
-      <link>https://sisterray.co.uk/products/les-fleur-oh-by-the-way-rsd-2020</link>
-      <description>Sister Ray Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0096/1884/9839/files/minnie_96bc8bfa-7850-4720-97c4-25fa71acfcd1.jpg?v=1791979171&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Prime Direct&lt;br /&gt;
-        &lt;strong&gt;Typ</description>
-      <pubDate>Wed, 14 Oct 2026 12:02:37 +0000</pubDate>
-      <guid isPermaLink="true">https://sisterray.co.uk/products/les-fleur-oh-by-the-way-rsd-2020</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Brian Eno &amp; J. Peter Schwalm Drawn From Life Vinyl LP Due Out 16/10/26</title>
-      <link>https://assai.co.uk/products/brian-eno-j-peter-schwalm-drawn-from-life-vinyl-lp-due-out-16-10-26</link>
-      <description>Assai Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1565/5653/files/6d0f0c944cdd40feb3a67a0eeb271876.jpg?v=1789026993&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Assai Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vin</description>
-      <pubDate>Wed, 14 Oct 2026 11:58:03 +0000</pubDate>
-      <guid isPermaLink="true">https://assai.co.uk/products/brian-eno-j-peter-schwalm-drawn-from-life-vinyl-lp-due-out-16-10-26</guid>
-    </item>
-    <item>
-      <title>[International] Rice, DJ: Odd Man Out - VINYL LP</title>
-      <link>https://tower.com/products/rice-dj-odd-man-out-vinyl-lp</link>
-      <description>Tower Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2976/0132/files/4550080-3738196.jpg?v=1791975166&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Rice, DJ&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;VINYL LP&lt;br /&gt;
-        &lt;s</description>
-      <pubDate>Wed, 14 Oct 2026 10:52:46 +0000</pubDate>
-      <guid isPermaLink="true">https://tower.com/products/rice-dj-odd-man-out-vinyl-lp</guid>
-    </item>
-    <item>
-      <title>[International] Dying Wish: Flesh Stays Together - VINYL LP</title>
-      <link>https://tower.com/products/dying-wish-flesh-stays-together-vinyl-lp-1</link>
-      <description>Tower Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2976/0132/files/4550017-3738198.jpg?v=1791975163&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Dying Wish&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;VINYL LP&lt;br /&gt;
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Rita Lee&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;_1preview-music&lt;br /&gt;
         </description>
-      <pubDate>Wed, 14 Oct 2026 10:52:46 +0000</pubDate>
-      <guid isPermaLink="true">https://tower.com/products/dying-wish-flesh-stays-together-vinyl-lp-1</guid>
+      <pubDate>Wed, 14 Oct 2026 20:52:04 +0000</pubDate>
+      <guid isPermaLink="true">https://www.turntablelab.com/products/rita-lee-rita-lee-1979-180g-colored-vinyl-vinyl-lp</guid>
     </item>
     <item>
-      <title>[International] Friedberg: Goodwife - VINYL LP</title>
-      <link>https://tower.com/products/friedberg-goodwife-vinyl-lp</link>
-      <description>Tower Records: &lt;table border=&quot;0&quot;&gt;
+      <title>[United States] The Blasting Company: Over The Garden Wall Original Soundtrack Cassette</title>
+      <link>https://www.turntablelab.com/products/the-blasting-company-over-the-garden-wall-original-soundtrack-cassette</link>
+      <description>Turntable Lab: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2976/0132/files/4550064-3738201.jpg?v=1791975165&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0105/4542/files/processing.png?v=1776447994&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Friedberg&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;VINYL LP&lt;br /&gt;
-        &lt;</description>
-      <pubDate>Wed, 14 Oct 2026 10:52:45 +0000</pubDate>
-      <guid isPermaLink="true">https://tower.com/products/friedberg-goodwife-vinyl-lp</guid>
+        &lt;strong&gt;Vendor: &lt;/strong&gt;The Blasting Company&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;_1preview-music&lt;br</description>
+      <pubDate>Wed, 14 Oct 2026 20:52:00 +0000</pubDate>
+      <guid isPermaLink="true">https://www.turntablelab.com/products/the-blasting-company-over-the-garden-wall-original-soundtrack-cassette</guid>
     </item>
     <item>
-      <title>[United States] Pre-Order: Sugababes [Colored Vinyl] (Ylw) - Sugababes</title>
-      <link>https://omegamusicdayton.com/products/pre-order-sugababes-colored-vinyl-ylw-sugababes</link>
-      <description>Omega Music: &lt;table border=&quot;0&quot;&gt;
+      <title>[United States] Tallest Man On Earth - Just Beyond Endless Mountain (New CD)</title>
+      <link>https://www.sonicboommusic.com/products/tallest-man-on-earth-just-beyond-endless-mountain-new-cd</link>
+      <description>Sonic Boom Records: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0791/5539/6826/files/4550198-3738908.jpg?v=1791978540&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0094/8718/8015/files/Tallest-Man-On-Earth-Just-Beyond-Endless-Mountain-New-Vinyl.webp?v=1792037026&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Omega Music Shopify&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;
+        &lt;strong&gt;Vendor: &lt;/strong&gt;FAB&lt;br /&gt;
+        &lt;st</description>
+      <pubDate>Wed, 14 Oct 2026 20:39:03 +0000</pubDate>
+      <guid isPermaLink="true">https://www.sonicboommusic.com/products/tallest-man-on-earth-just-beyond-endless-mountain-new-cd</guid>
+    </item>
+    <item>
+      <title>[Canada] Tony Toni Tone - The Hits Of Tony! Toni! Toné!  (LP)</title>
+      <link>https://compactmusic.ca/products/tony-toni-tone-the-hits-of-tony-toni-tone-lp</link>
+      <description>Compact Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0410/6249/8455/files/R-38080332-1786061039-1418.jpg?v=1792010187&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;UNV&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl&lt;br /&gt;
+  </description>
+      <pubDate>Wed, 14 Oct 2026 20:05:33 +0000</pubDate>
+      <guid isPermaLink="true">https://compactmusic.ca/products/tony-toni-tone-the-hits-of-tony-toni-tone-lp</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Prince - Prince</title>
+      <link>https://friendlyrecords.co.uk/products/prince-prince</link>
+      <description>Friendly Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1322/9859/files/IMG_8917.jpg?v=1792008257&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Friendly Records Ltd&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
+        &lt;stro</description>
+      <pubDate>Wed, 14 Oct 2026 20:04:34 +0000</pubDate>
+      <guid isPermaLink="true">https://friendlyrecords.co.uk/products/prince-prince</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] NINA - Air To Throne (EP)</title>
+      <link>https://www.easternblocrecords.com/products/nina-air-to-throne-ep-pre-order-15-10-26-copy</link>
+      <description>Eastern Bloc Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0932/7571/7963/files/CS1175218-01A-BIG.jpg?v=1791726377&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Substrata&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
+  </description>
+      <pubDate>Wed, 14 Oct 2026 19:57:29 +0000</pubDate>
+      <guid isPermaLink="true">https://www.easternblocrecords.com/products/nina-air-to-throne-ep-pre-order-15-10-26-copy</guid>
+    </item>
+    <item>
+      <title>[United States] Cactus - Auxiliary Studios 1971 (CD)</title>
+      <link>https://cleorecs.com/products/cactus-auxiliary-studios-1971-cd</link>
+      <description>Purple Pyramid Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0868/3379/1287/files/CLO7615CD-1.png?v=1792005517&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Cleopatra Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
+      </description>
+      <pubDate>Wed, 14 Oct 2026 19:20:45 +0000</pubDate>
+      <guid isPermaLink="true">https://cleorecs.com/products/cactus-auxiliary-studios-1971-cd</guid>
+    </item>
+    <item>
+      <title>[United States] Hellebore n. 16 - The Mystery Issue</title>
+      <link>https://50wattsbooks.com/products/hellebore-n-16-the-mystery-issue</link>
+      <description>50 Watts Books &amp; Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0510/5215/0960/files/Hellebore-16-MysteryIssue.jpg?v=1792005487&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Hellebore&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Books&lt;br </description>
+      <pubDate>Wed, 14 Oct 2026 19:13:19 +0000</pubDate>
+      <guid isPermaLink="true">https://50wattsbooks.com/products/hellebore-n-16-the-mystery-issue</guid>
+    </item>
+    <item>
+      <title>[Canada] Djo - Decide (blue swirl vinyl) (LP)</title>
+      <link>https://compactmusic.ca/products/djo-decide-blue-swirl-vinyl-lp</link>
+      <description>Compact Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0410/6249/8455/files/images_4e1cb7a3-22cc-49d1-beb7-c2f07a00ec66.jpg?v=1792002339&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;SONY&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/str</description>
+      <pubDate>Wed, 14 Oct 2026 18:27:14 +0000</pubDate>
+      <guid isPermaLink="true">https://compactmusic.ca/products/djo-decide-blue-swirl-vinyl-lp</guid>
+    </item>
+    <item>
+      <title>[International] Loretta Lynn - Icon</title>
+      <link>https://orbitrecords.com/products/loretta-lynn-icon</link>
+      <description>Orbit Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0807/4553/files/71YdtEqZ1IL._SX522.jpg?v=1792001816&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;n/a&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;LP - Used&lt;br /&gt;
+        &lt;st</description>
+      <pubDate>Wed, 14 Oct 2026 18:21:31 +0000</pubDate>
+      <guid isPermaLink="true">https://orbitrecords.com/products/loretta-lynn-icon</guid>
+    </item>
+    <item>
+      <title>[United States] Robert Calvert - Test-Tube Conceived (CD)</title>
+      <link>https://cleorecs.com/products/robert-calvert-test-tube-conceived-cd</link>
+      <description>Purple Pyramid Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0868/3379/1287/files/CLO7561CD-1.png?v=1792001224&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Cleopatra Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
+      </description>
+      <pubDate>Wed, 14 Oct 2026 18:16:30 +0000</pubDate>
+      <guid isPermaLink="true">https://cleorecs.com/products/robert-calvert-test-tube-conceived-cd</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Cult Of Luna &quot;Live At The Scala&quot; Digital Download</title>
+      <link>https://earache.com/products/cult-of-luna-live-at-the-scala-digital-download</link>
+      <description>Earache Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0754/7440/3641/products/CultOfLunaLiveAtTheScala.jpg?v=1684924638&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;vendor-unknown&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Ar</description>
+      <pubDate>Wed, 14 Oct 2026 17:14:33 +0000</pubDate>
+      <guid isPermaLink="true">https://earache.com/products/cult-of-luna-live-at-the-scala-digital-download</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Cult Of Luna &quot;Eternal Kingdom&quot; Digital Download</title>
+      <link>https://earache.com/products/cult-of-luna-eternal-kingdom-digital-download</link>
+      <description>Earache Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0754/7440/3641/products/CultOfLunaEternalKingdom.jpg?v=1684924636&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;vendor-unknown&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Ar</description>
+      <pubDate>Wed, 14 Oct 2026 17:14:31 +0000</pubDate>
+      <guid isPermaLink="true">https://earache.com/products/cult-of-luna-eternal-kingdom-digital-download</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Cult Of Luna &quot;Somewhere Along The Highway&quot; Digital Download</title>
+      <link>https://earache.com/products/cult-of-luna-somewhere-along-the-highway-digital-download</link>
+      <description>Earache Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0754/7440/3641/products/CultOfLunaSomewhereAlongTheHighway.jpg?v=1684924633&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;vendor-unknown&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;</description>
+      <pubDate>Wed, 14 Oct 2026 17:14:30 +0000</pubDate>
+      <guid isPermaLink="true">https://earache.com/products/cult-of-luna-somewhere-along-the-highway-digital-download</guid>
+    </item>
+    <item>
+      <title>[United States] Jiro Inagaki - Woodstock Generation (Vinyl LP) PRE-ORDER - Out 12/4/26</title>
+      <link>https://jackpotrecords.com/products/jiro-inagaki-woodstock-generation-vinyl-lp-pre-order-out-12-4-26</link>
+      <description>Jackpot Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0624/5705/3402/files/4543540-3719019.jpg?v=1791543331&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackpot Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Pre-Order&lt;br </description>
+      <pubDate>Wed, 14 Oct 2026 17:09:49 +0000</pubDate>
+      <guid isPermaLink="true">https://jackpotrecords.com/products/jiro-inagaki-woodstock-generation-vinyl-lp-pre-order-out-12-4-26</guid>
+    </item>
+    <item>
+      <title>[United States] Various Artists - Guitar Work (Vinyl LP) PRE-ORDER - Out 12/4/26</title>
+      <link>https://jackpotrecords.com/products/various-artists-guitar-work-vinyl-lp-pre-order-out-12-4-26</link>
+      <description>Jackpot Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0624/5705/3402/files/4988004190315_974x_e400f70a-c5e6-4441-864c-d9eac40b69ca.webp?v=1791577349&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackpot Records&lt;br /&gt;
+   </description>
+      <pubDate>Wed, 14 Oct 2026 16:58:46 +0000</pubDate>
+      <guid isPermaLink="true">https://jackpotrecords.com/products/various-artists-guitar-work-vinyl-lp-pre-order-out-12-4-26</guid>
+    </item>
+    <item>
+      <title>[United States] Big John Patton - That Certain Feeling (Blue Note Classic Vinyl Edition LP) PRE-ORDER - Out 11/20/26</title>
+      <link>https://jackpotrecords.com/products/big-john-patton-that-certain-feeling-blue-note-classic-vinyl-edition-vinyl-lp-pre-order-out-11-20-26</link>
+      <description>Jackpot Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0624/5705/3402/files/80_7c2d22da-4bba-4f67-8d0d-aa4e8c241439.png?v=1791169193&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackpot Records&lt;br /&gt;
+        &lt;strong&gt;Type</description>
+      <pubDate>Wed, 14 Oct 2026 16:57:47 +0000</pubDate>
+      <guid isPermaLink="true">https://jackpotrecords.com/products/big-john-patton-that-certain-feeling-blue-note-classic-vinyl-edition-vinyl-lp-pre-order-out-11-20-26</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Rolling Stones - Foreign Tongues, Loose Lips</title>
+      <link>https://davids-music.co.uk/products/rolling-stones-foreign-tongues-loose-lips</link>
+      <description>David&#x27;s Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0378/1623/8217/files/TheRollingStones-ForeignTonguesLooseLips-12_EP_1CD-00881061263289-AllPartners-1.jpg?v=1791995605&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;UN</description>
+      <pubDate>Wed, 14 Oct 2026 16:35:45 +0000</pubDate>
+      <guid isPermaLink="true">https://davids-music.co.uk/products/rolling-stones-foreign-tongues-loose-lips</guid>
+    </item>
+    <item>
+      <title>[United States] Rounder Records Circle Logo Black - Hoodie</title>
+      <link>https://rounder.com/products/rounder-records-circle-logo-black-hoodie</link>
+      <description>Rounder Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0493/1767/5161/files/f26657d5b832434e98e261ea44501763.png?v=1791994037&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Rounder Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/str</description>
+      <pubDate>Wed, 14 Oct 2026 16:07:09 +0000</pubDate>
+      <guid isPermaLink="true">https://rounder.com/products/rounder-records-circle-logo-black-hoodie</guid>
+    </item>
+    <item>
+      <title>[United States] RAGING OCTOBER | CELTIC GODS | CS PRE ORDER</title>
+      <link>https://hospitalproductions.net/products/raging-october-celtic-gods-cs-pre-order</link>
+      <description>Hospital Productions: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2611/7862/files/raging-october-celtic-gods-cs.jpg?v=1761854705&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;RAGING OCTOBER&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Casse</description>
+      <pubDate>Wed, 14 Oct 2026 16:07:09 +0000</pubDate>
+      <guid isPermaLink="true">https://hospitalproductions.net/products/raging-october-celtic-gods-cs-pre-order</guid>
+    </item>
+    <item>
+      <title>[United States] Rounder Records Circle Logo Khaki - Tee</title>
+      <link>https://rounder.com/products/rounder-records-circle-logo-khaki-tee</link>
+      <description>Rounder Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0493/1767/5161/files/8d8ac51d3ea74e109e4322eec555b550.png?v=1791993441&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Rounder Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/str</description>
+      <pubDate>Wed, 14 Oct 2026 15:57:23 +0000</pubDate>
+      <guid isPermaLink="true">https://rounder.com/products/rounder-records-circle-logo-khaki-tee</guid>
+    </item>
+    <item>
+      <title>[United States] Rounder Records Vintage Logo - Tee</title>
+      <link>https://rounder.com/products/rounder-records-vintage-logo-tee</link>
+      <description>Rounder Records Shop: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0493/1767/5161/files/fcbe04c62ba54baab7ccef09b5bb03dc.png?v=1791992855&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Rounder Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/str</description>
+      <pubDate>Wed, 14 Oct 2026 15:47:38 +0000</pubDate>
+      <guid isPermaLink="true">https://rounder.com/products/rounder-records-vintage-logo-tee</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Dream Night Dance Music</title>
+      <link>https://rubadub.co.uk/products/dream-night-dance-music</link>
+      <description>Rub A Dub Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0267/6952/2736/files/FRVR-5-LTD.jpg?v=1791992047&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Forever Records&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Records&lt;br /&gt;
+    </description>
+      <pubDate>Wed, 14 Oct 2026 15:34:38 +0000</pubDate>
+      <guid isPermaLink="true">https://rubadub.co.uk/products/dream-night-dance-music</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] CV313 / FEDERSEN - Skyspace (EP)</title>
+      <link>https://www.easternblocrecords.com/products/cv313-federsen-skyspace-ep</link>
+      <description>Eastern Bloc Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0932/7571/7963/files/CS1049632-01A-BIG.jpg?v=1791990191&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Alt Dub&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
+    </description>
+      <pubDate>Wed, 14 Oct 2026 15:24:16 +0000</pubDate>
+      <guid isPermaLink="true">https://www.easternblocrecords.com/products/cv313-federsen-skyspace-ep</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] D&#x27;JULZ - The Game Of Life (EP)</title>
+      <link>https://www.easternblocrecords.com/products/djulz-the-game-of-life-ep</link>
+      <description>Eastern Bloc Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0932/7571/7963/files/CS1066095-01A-BIG.jpg?v=1791990207&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Phonogramme&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
 </description>
-      <pubDate>Wed, 14 Oct 2026 10:30:23 +0000</pubDate>
-      <guid isPermaLink="true">https://omegamusicdayton.com/products/pre-order-sugababes-colored-vinyl-ylw-sugababes</guid>
+      <pubDate>Wed, 14 Oct 2026 15:22:42 +0000</pubDate>
+      <guid isPermaLink="true">https://www.easternblocrecords.com/products/djulz-the-game-of-life-ep</guid>
     </item>
     <item>
-      <title>[International] Spinvis - Toutes Directions Print</title>
-      <link>https://excelsior-recordings.com/products/spinvis-toutes-directions-print</link>
-      <description>Excelsior Recordings: &lt;table border=&quot;0&quot;&gt;
+      <title>[United Kingdom] Songs for Josephine</title>
+      <link>https://rubadub.co.uk/products/songs-for-josephine</link>
+      <description>Rub A Dub Records: &lt;table border=&quot;0&quot;&gt;
   &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1867/5757/files/IMG_4325.jpg?v=1791970087&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0267/6952/2736/files/unnamed_aad28b25-aec2-43a8-b453-c2dd8312b118.jpg?v=1791990311&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
     &lt;td valign=&quot;bottom&quot;&gt;
       &lt;p&gt;
 
-        &lt;strong&gt;Verkoper: &lt;/strong&gt;Excelsior Recordings&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;poster&lt;br /&gt;
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Balmat&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/</description>
+      <pubDate>Wed, 14 Oct 2026 15:06:19 +0000</pubDate>
+      <guid isPermaLink="true">https://rubadub.co.uk/products/songs-for-josephine</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Azul</title>
+      <link>https://rubadub.co.uk/products/azul</link>
+      <description>Rub A Dub Records: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0267/6952/2736/files/unnamed_9388be80-9c25-4fd0-86d8-b304df0edbed.jpg?v=1791990306&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Lapsus Records&lt;br /&gt;
+        &lt;strong&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 15:06:08 +0000</pubDate>
+      <guid isPermaLink="true">https://rubadub.co.uk/products/azul</guid>
+    </item>
+    <item>
+      <title>[United States] Winona Fighter - Brutal &amp; Extremely Underrated Brown in Clear w/ Blue/Pink/Yellow Splatter - Vinyl LP</title>
+      <link>https://riserecords.com/products/wf00baeubr-lp</link>
+      <description>Rise Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0098/1585/1086/files/2CCC-O1-T2_O5_N3_N5-SPTD-_Brown-in-Clear-with-Blue_-Pink-_-Yellow-Splatter.jpg?v=1791908102&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Winona </description>
+      <pubDate>Wed, 14 Oct 2026 14:42:01 +0000</pubDate>
+      <guid isPermaLink="true">https://riserecords.com/products/wf00baeubr-lp</guid>
+    </item>
+    <item>
+      <title>[United States] Winona Fighter - Brutal &amp; Extremely Underrated Black in Blush w/ White Splatter - Vinyl LP</title>
+      <link>https://riserecords.com/products/wf00baeubb-lp</link>
+      <description>Rise Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0098/1585/1086/files/2CCC-BK-SCP02_O2-SPTD-_Black-in-Blush-with-White-Splatter.jpg?v=1791906840&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;WF00&lt;br /&gt;
+        &lt;stro</description>
+      <pubDate>Wed, 14 Oct 2026 14:42:00 +0000</pubDate>
+      <guid isPermaLink="true">https://riserecords.com/products/wf00baeubb-lp</guid>
+    </item>
+    <item>
+      <title>[United States] Winona Fighter - Brutal &amp; Extremely Underrated  - CD</title>
+      <link>https://riserecords.com/products/wf00baeu00-cd</link>
+      <description>Rise Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0098/1585/1086/files/WF_BRUTAL_CD.jpg?v=1791569746&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Winona Fighter&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
+        </description>
+      <pubDate>Wed, 14 Oct 2026 14:41:58 +0000</pubDate>
+      <guid isPermaLink="true">https://riserecords.com/products/wf00baeu00-cd</guid>
+    </item>
+    <item>
+      <title>[United Kingdom] Steven Wilson - Requiem For A Village</title>
+      <link>https://davids-music.co.uk/products/steven-wilson-requiem-for-a-village</link>
+      <description>David&#x27;s Music: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0378/1623/8217/files/Steven_Wilson_Requiem_For_A_Village_Packshot_3000px.jpg?v=1791986180&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Integral / PIAS&lt;br /&gt;
+        </description>
+      <pubDate>Wed, 14 Oct 2026 13:57:55 +0000</pubDate>
+      <guid isPermaLink="true">https://davids-music.co.uk/products/steven-wilson-requiem-for-a-village</guid>
+    </item>
+    <item>
+      <title>[United States] Alto Professional STEALTH 1 Mono Wireless System for Powered Speakers or Mics (542 to 566 MHz)</title>
+      <link>https://rockandsoul.com/products/alto-professional-stealth-1-mono-wireless-system-for-powered-speakers-or-mics-542-to-566-mhz</link>
+      <description>Rock &amp; Soul DJ Equipment: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0002/7053/2620/files/1651314.jpg?v=1791985442&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;alto&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Wireless Transmitter&lt;br /&gt;
      </description>
-      <pubDate>Wed, 14 Oct 2026 10:17:34 +0000</pubDate>
-      <guid isPermaLink="true">https://excelsior-recordings.com/products/spinvis-toutes-directions-print</guid>
+      <pubDate>Wed, 14 Oct 2026 13:44:03 +0000</pubDate>
+      <guid isPermaLink="true">https://rockandsoul.com/products/alto-professional-stealth-1-mono-wireless-system-for-powered-speakers-or-mics-542-to-566-mhz</guid>
+    </item>
+    <item>
+      <title>[United States] American Football - Wake Her Up / Boys Don&#x27;t Cry (SiriusXM Session)</title>
+      <link>https://www.polyvinylrecords.com/products/american-football-wake-her-up-boys-dont-cry-siriusxm-session</link>
+      <description>Polyvinyl Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0881/7655/8387/files/fc6a18abab669d4f21c421a64373ae29be17fd48_b3f54805be15850284f974338067096c8b37de1d_photo_jpg.jpg?v=1791951256&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor:</description>
+      <pubDate>Wed, 14 Oct 2026 13:41:14 +0000</pubDate>
+      <guid isPermaLink="true">https://www.polyvinylrecords.com/products/american-football-wake-her-up-boys-dont-cry-siriusxm-session</guid>
+    </item>
+    <item>
+      <title>[United States] Humpty Dumpty LSD (2026 Remaster)</title>
+      <link>https://matadorrecords.com/products/ole2061-humpty-dumpty-lsd-2026-remaster</link>
+      <description>Matador Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0881/9123/8465/files/ButtholeSurfers_HumptyDumpty_Front_1x1_0740010e-08fb-416c-9c4a-96cca1924d8d.jpg?v=1791561400&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Buttho</description>
+      <pubDate>Wed, 14 Oct 2026 13:30:03 +0000</pubDate>
+      <guid isPermaLink="true">https://matadorrecords.com/products/ole2061-humpty-dumpty-lsd-2026-remaster</guid>
+    </item>
+    <item>
+      <title>[United States] piouhgd (2026 Remaster)</title>
+      <link>https://matadorrecords.com/products/ole2060-piouhgd-2026-remaster</link>
+      <description>Matador Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0881/9123/8465/files/ButtholeSurfers_Pioughd_Front_1x1_57032f62-8420-436f-9c4b-f550a737b8b2.jpg?v=1791561507&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Matador Rec</description>
+      <pubDate>Wed, 14 Oct 2026 13:30:02 +0000</pubDate>
+      <guid isPermaLink="true">https://matadorrecords.com/products/ole2060-piouhgd-2026-remaster</guid>
+    </item>
+    <item>
+      <title>[United States] FOIE GRAS T-Shirt (Ivory)</title>
+      <link>https://www.epitaph.com/products/foie-gras-t-shirt-ivory</link>
+      <description>Epitaph Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0562/2107/3457/files/unisex-garment-dyed-heavyweight-t-shirt-ivory-front-6ac701f3ebfb2.png?v=1791427073&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Destroy Boys&lt;br </description>
+      <pubDate>Wed, 14 Oct 2026 13:00:20 +0000</pubDate>
+      <guid isPermaLink="true">https://www.epitaph.com/products/foie-gras-t-shirt-ivory</guid>
+    </item>
+    <item>
+      <title>[United States] FOIE GRAS LP (Eco Mix/Spotify Fans First)</title>
+      <link>https://www.epitaph.com/products/foie-gras-lp-eco-mix-spotify-fans-first</link>
+      <description>Epitaph Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0562/2107/3457/files/88168-1_DestroyBoys_LP_EcoMix.png?v=1791914649&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Destroy Boys&lt;br /&gt;
+        &lt;strong&gt;Type: &lt;/strong&gt;Hi</description>
+      <pubDate>Wed, 14 Oct 2026 13:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.epitaph.com/products/foie-gras-lp-eco-mix-spotify-fans-first</guid>
+    </item>
+    <item>
+      <title>[United States] FOIE GRAS LP (Clear Red)</title>
+      <link>https://www.epitaph.com/products/foie-gras-lp-clear-red</link>
+      <description>Epitaph Records Store: &lt;table border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0562/2107/3457/files/88168-1_DestroyBoys_LP_ClearRed_941c56fc-6736-42b2-8215-06b5d32bfdb2.png?v=1791914074&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
+    &lt;td valign=&quot;bottom&quot;&gt;
+      &lt;p&gt;
+
+        &lt;strong&gt;Vendor: &lt;/strong&gt;Destroy Boys&lt;</description>
+      <pubDate>Wed, 14 Oct 2026 13:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://www.epitaph.com/products/foie-gras-lp-clear-red</guid>
     </item>
     <item>
       <title>[International] MICH - live - ish (pre-order)</title>
@@ -425,80 +1360,6 @@
         &lt;strong&gt;</description>
       <pubDate>Wed, 14 Oct 2026 09:58:18 +0000</pubDate>
       <guid isPermaLink="true">https://excelsior-recordings.com/products/mich-live-ish</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Make Noise 7U 104hp 4 Zone CV Bus Eurorack Case</title>
-      <link>https://rubadub.co.uk/products/make-noise-7u-104hp-4-zone-cv-bus-eurorack-case</link>
-      <description>Rub A Dub Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0267/6952/2736/files/4-zone-2026.png?v=1791969465&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Make Noise&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Equipment&lt;br /&gt;
-      </description>
-      <pubDate>Wed, 14 Oct 2026 09:20:59 +0000</pubDate>
-      <guid isPermaLink="true">https://rubadub.co.uk/products/make-noise-7u-104hp-4-zone-cv-bus-eurorack-case</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Ceitidh Mac - Sing, Sung, Singing</title>
-      <link>https://davids-music.co.uk/products/ceitidh-mac-sing-sung-singing</link>
-      <description>David&#x27;s Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0378/1623/8217/files/CeitidhMacSing_Sung_Singing.jpg?v=1791902173&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;ROM&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
-      </description>
-      <pubDate>Wed, 14 Oct 2026 09:00:03 +0000</pubDate>
-      <guid isPermaLink="true">https://davids-music.co.uk/products/ceitidh-mac-sing-sung-singing</guid>
-    </item>
-    <item>
-      <title>[United States] Richard Raux (Magma) &amp; Hamsa - Richard Raux &amp; Hamsa (Vinyl LP, French Import) PRE-ORDER - Out 11/27/26</title>
-      <link>https://jackpotrecords.com/products/richard-raux-magma-hamsa-ichard-raux-hamsa-vinyl-lp-french-import-pre-order-out-11-27-26</link>
-      <description>Jackpot Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0624/5705/3402/files/FFL100LP_CU.jpg?v=1791420995&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackpot Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Pre-Order&lt;br /&gt;
- </description>
-      <pubDate>Wed, 14 Oct 2026 06:01:25 +0000</pubDate>
-      <guid isPermaLink="true">https://jackpotrecords.com/products/richard-raux-magma-hamsa-ichard-raux-hamsa-vinyl-lp-french-import-pre-order-out-11-27-26</guid>
-    </item>
-    <item>
-      <title>[United States] Friedhof - Friedhof (Vinyl LP, Italian Import) PRE-ORDER - Out 11/27/26</title>
-      <link>https://jackpotrecords.com/products/friedhof-friedhof-vinyl-lp-italian-import-pre-order-out-11-27-26</link>
-      <description>Jackpot Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0624/5705/3402/files/LIFE067LP_CU.jpg?v=1791168515&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackpot Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Pre-Order&lt;br /&gt;
-</description>
-      <pubDate>Wed, 14 Oct 2026 06:00:21 +0000</pubDate>
-      <guid isPermaLink="true">https://jackpotrecords.com/products/friedhof-friedhof-vinyl-lp-italian-import-pre-order-out-11-27-26</guid>
-    </item>
-    <item>
-      <title>[United States] Bill Withers - Naked &amp; Warm (Limited Edition, Translucent Blue Vinyl, Numbered, Holland Import) PRE-ORDER - Out 12/4/26</title>
-      <link>https://jackpotrecords.com/products/bill-withers-naked-warm-limited-edition-translucent-blue-numbered-holland-import-pre-order-out-12-4-26</link>
-      <description>Jackpot Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0624/5705/3402/files/4545015-3725190.jpg?v=1791167590&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackpot Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Pre-Order&lt;br </description>
-      <pubDate>Wed, 14 Oct 2026 05:58:40 +0000</pubDate>
-      <guid isPermaLink="true">https://jackpotrecords.com/products/bill-withers-naked-warm-limited-edition-translucent-blue-numbered-holland-import-pre-order-out-12-4-26</guid>
     </item>
     <item>
       <title>[Canada] QED Performance Speaker Cable</title>
@@ -559,20 +1420,6 @@
       <guid isPermaLink="true">https://orbitrecords.com/products/white-stripes-elephant-2-lp-set</guid>
     </item>
     <item>
-      <title>[International] $uicideboy$ - Sing Me a Lullaby My Sweet Temptation - on limited colored vinyl</title>
-      <link>https://orbitrecords.com/products/suicideboys-sing-me-a-lullaby-my-sweet-temptation-on-limited-colored-vinyl</link>
-      <description>Orbit Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0807/4553/files/dummy_b7cccea2-e647-4872-a0da-395e4f525269.png?v=1729999890&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;All Media Supply (AMS)&lt;br /&gt;
-        &lt;strong</description>
-      <pubDate>Wed, 14 Oct 2026 04:45:49 +0000</pubDate>
-      <guid isPermaLink="true">https://orbitrecords.com/products/suicideboys-sing-me-a-lullaby-my-sweet-temptation-on-limited-colored-vinyl</guid>
-    </item>
-    <item>
       <title>[Canada] Monitor Audio Bronze Center 7G</title>
       <link>https://www.soundhounds.com/products/monitor-audio-bronze-7g</link>
       <description>Sound Hounds: &lt;table border=&quot;0&quot;&gt;
@@ -587,54 +1434,6 @@
       <guid isPermaLink="true">https://www.soundhounds.com/products/monitor-audio-bronze-7g</guid>
     </item>
     <item>
-      <title>[United States] EVH Striped Series Shapes EVH White and Black</title>
-      <link>https://www.chicagomusicexchange.com/products/evh-striped-series-shapes-evh-white-and-black-2605589</link>
-      <description>Chicago Music Exchange: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0343/4368/2183/files/evh-electric-guitars-evh-striped-series-shapes-evh-white-and-black-evh-striped-series-shapes-evh-white-and-black-5107902381-1262511721.jpg?v=1791931256&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;</description>
-      <pubDate>Wed, 14 Oct 2026 04:38:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.chicagomusicexchange.com/products/evh-striped-series-shapes-evh-white-and-black-2605589</guid>
-    </item>
-    <item>
-      <title>[United States] Catalinbread Cold One Fuzz/Glitch/Distortion Pedal</title>
-      <link>https://www.chicagomusicexchange.com/products/catalinbread-cold-one-fuzzglitchdistortion-pedal-2687343</link>
-      <description>Chicago Music Exchange: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0343/4368/2183/files/catalinbread-effect-pedals-catalinbread-cold-one-fuzz-glitch-distortion-pedal-catalinbread-cold-one-fuzz-glitch-distortion-pedal-cb-coldone-1262511723.jpg?v=1791931278&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-</description>
-      <pubDate>Wed, 14 Oct 2026 04:38:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.chicagomusicexchange.com/products/catalinbread-cold-one-fuzzglitchdistortion-pedal-2687343</guid>
-    </item>
-    <item>
-      <title>[United States] Jackson Legend Series Randy Rhoads CD1 Limited Edition Vintage Black w/White Pinstripes</title>
-      <link>https://www.chicagomusicexchange.com/products/jackson-legend-series-randy-rhoads-cd1-limited-edition-2605392</link>
-      <description>Chicago Music Exchange: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0343/4368/2183/files/download_651aad6e-0f7e-49a5-81e8-40ec0fb4fa87.jpg?v=1791920440&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Jackson&lt;br /&gt;
-        &lt;strong&gt;Type: </description>
-      <pubDate>Wed, 14 Oct 2026 04:38:30 +0000</pubDate>
-      <guid isPermaLink="true">https://www.chicagomusicexchange.com/products/jackson-legend-series-randy-rhoads-cd1-limited-edition-2605392</guid>
-    </item>
-    <item>
-      <title>[International] LITTLE RICHARD | 14 GOLDEN HITS</title>
-      <link>https://realgroovy.com/products/484507-14-golden-hits</link>
-      <description>Real Groovy: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0825/5186/5644/files/R-5346651-1391113820-5621.jpg?v=1791949122&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;USED VINYL&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 03:39:03 +0000</pubDate>
-      <guid isPermaLink="true">https://realgroovy.com/products/484507-14-golden-hits</guid>
-    </item>
-    <item>
       <title>[United States] Bird Songs For Atomic Skies</title>
       <link>https://fatpossum.com/products/bird-songs-for-atomic-skies</link>
       <description>Fat Possum Store: &lt;table border=&quot;0&quot;&gt;
@@ -647,51 +1446,6 @@
         &lt;strong&gt;Type: &lt;/strong</description>
       <pubDate>Wed, 14 Oct 2026 03:33:55 +0000</pubDate>
       <guid isPermaLink="true">https://fatpossum.com/products/bird-songs-for-atomic-skies</guid>
-    </item>
-    <item>
-      <title>[United States] Merry Christmas From Slowey and The Boats, Vol. 1 &amp; 2</title>
-      <link>https://lightintheattic.net/products/merry-christmas-from-slowey-and-the-boats-vol-1-2</link>
-      <description>Light in the Attic Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0080/6417/2096/files/709388024072.jpg?v=1791938855&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Hi-Tide Recordings&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Album&lt;br /&gt;
- </description>
-      <pubDate>Wed, 14 Oct 2026 00:45:55 +0000</pubDate>
-      <guid isPermaLink="true">https://lightintheattic.net/products/merry-christmas-from-slowey-and-the-boats-vol-1-2</guid>
-    </item>
-    <item>
-      <title>[United States] Hi-Fi Christmas Guitar</title>
-      <link>https://lightintheattic.net/products/hi-fi-christmas-guitar</link>
-      <description>Light in the Attic Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0080/6417/2096/files/709388075401.jpg?v=1791938912&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Hi-Tide Recordings&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Album&lt;br /&gt;
- </description>
-      <pubDate>Wed, 14 Oct 2026 00:45:55 +0000</pubDate>
-      <guid isPermaLink="true">https://lightintheattic.net/products/hi-fi-christmas-guitar</guid>
-    </item>
-    <item>
-      <title>[United States] Bluebeat Holiday</title>
-      <link>https://lightintheattic.net/products/bluebeat-holiday</link>
-      <description>Light in the Attic Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0080/6417/2096/files/709388075005.jpg?v=1791938898&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Nu-Tone&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Album&lt;br /&gt;
-        &lt;str</description>
-      <pubDate>Wed, 14 Oct 2026 00:45:55 +0000</pubDate>
-      <guid isPermaLink="true">https://lightintheattic.net/products/bluebeat-holiday</guid>
     </item>
     <item>
       <title>[United States] Whirr &quot;Pipe Dreams Redux&quot;</title>
@@ -738,48 +1492,6 @@
       <guid isPermaLink="true">https://endofanear.com/products/saint-vitus-hallows-victim</guid>
     </item>
     <item>
-      <title>[United States] D&#x27;Monk x Frank Dasent - D&#x27;Monk x Frank Dasent (12&quot;) (New Vinyl)</title>
-      <link>https://www.sonicboommusic.com/products/dmonk-x-frank-dasent-dmonk-x-frank-dasent-12-new-vinyl</link>
-      <description>Sonic Boom Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0094/8718/8015/files/DMonk-x-Frank-Dasent-DMonk-x-Frank-Dasent-12-New-Vinyl.jpg?v=1791950907&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Forced Exposure&lt;br /&gt;
-     </description>
-      <pubDate>Tue, 13 Oct 2026 21:50:00 +0000</pubDate>
-      <guid isPermaLink="true">https://www.sonicboommusic.com/products/dmonk-x-frank-dasent-dmonk-x-frank-dasent-12-new-vinyl</guid>
-    </item>
-    <item>
-      <title>[United States] Monolake - Interstate (2LP) (New Vinyl)</title>
-      <link>https://www.sonicboommusic.com/products/monolake-interstate-new-vinyl</link>
-      <description>Sonic Boom Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0094/8718/8015/files/Monolake-Interstate-2LP-New-Vinyl.jpg?v=1791950906&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Forced Exposure&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/st</description>
-      <pubDate>Tue, 13 Oct 2026 21:46:15 +0000</pubDate>
-      <guid isPermaLink="true">https://www.sonicboommusic.com/products/monolake-interstate-new-vinyl</guid>
-    </item>
-    <item>
-      <title>[United States] Michael Hurley - Ida Con Snock (New Vinyl)</title>
-      <link>https://www.sonicboommusic.com/products/michael-hurley-ida-con-snock-new-vinyl</link>
-      <description>Sonic Boom Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0094/8718/8015/files/Michael-Hurley-Ida-Con-Snock-New-Vinyl.jpg?v=1791950905&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Forced Exposure&lt;br /&gt;
-        &lt;strong&gt;Type:</description>
-      <pubDate>Tue, 13 Oct 2026 21:41:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.sonicboommusic.com/products/michael-hurley-ida-con-snock-new-vinyl</guid>
-    </item>
-    <item>
       <title>[Canada] Pretty Sick - Anarchy (milky clear colour vinyl-indie exclusive) (LP)</title>
       <link>https://compactmusic.ca/products/pretty-sick-anarchy-milky-clear-colour-vinyl-indie-exclusive-lp</link>
       <description>Compact Music: &lt;table border=&quot;0&quot;&gt;
@@ -792,92 +1504,6 @@
         &lt;strong&gt;Type: &lt;/st</description>
       <pubDate>Tue, 13 Oct 2026 19:45:11 +0000</pubDate>
       <guid isPermaLink="true">https://compactmusic.ca/products/pretty-sick-anarchy-milky-clear-colour-vinyl-indie-exclusive-lp</guid>
-    </item>
-    <item>
-      <title>[International] 23/10/26 - Boay, Andy: Doomed</title>
-      <link>https://freebirdrecords.com/products/andy-boay-doomed</link>
-      <description>Freebird Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1481/5374/files/andy-boay-doomed.jpg?v=1791919768&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Does Are&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
-        &lt;strong&gt;P</description>
-      <pubDate>Tue, 13 Oct 2026 19:29:36 +0000</pubDate>
-      <guid isPermaLink="true">https://freebirdrecords.com/products/andy-boay-doomed</guid>
-    </item>
-    <item>
-      <title>[International] 23/10/26 - Celer &amp; Forest Management: Landmarks</title>
-      <link>https://freebirdrecords.com/products/celer-forest-management-landmarks</link>
-      <description>Freebird Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1481/5374/files/celer-forest-management-landmarks.png?v=1791919538&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Constellation Tatsu&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/str</description>
-      <pubDate>Tue, 13 Oct 2026 19:26:14 +0000</pubDate>
-      <guid isPermaLink="true">https://freebirdrecords.com/products/celer-forest-management-landmarks</guid>
-    </item>
-    <item>
-      <title>[International] 27/11/26 - Fall, The: Fall In A Hole</title>
-      <link>https://freebirdrecords.com/products/the-fall-fall-in-a-hole</link>
-      <description>Freebird Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1481/5374/files/fall-in-a-hole.jpg?v=1791919183&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Superior Viaduct&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
-        &lt;st</description>
-      <pubDate>Tue, 13 Oct 2026 19:19:53 +0000</pubDate>
-      <guid isPermaLink="true">https://freebirdrecords.com/products/the-fall-fall-in-a-hole</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Swervedriver &quot;Raise:Demos&quot; Silver Vinyl - PRE-ORDER</title>
-      <link>https://earache.com/products/swervedriver-raise-demos-silver-vinyl-pre-order</link>
-      <description>Earache Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0754/7440/3641/files/SwervedriverRaiseDemos_2ed87775-8d56-4efe-b599-71812bd73d94.jpg?v=1791916295&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Earache Records&lt;br /&gt;
-</description>
-      <pubDate>Tue, 13 Oct 2026 18:31:47 +0000</pubDate>
-      <guid isPermaLink="true">https://earache.com/products/swervedriver-raise-demos-silver-vinyl-pre-order</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Swervedriver &quot;Raise:Demos&quot; CD - PRE-ORDER</title>
-      <link>https://earache.com/products/swervedriver-raise-demos-cd-pre-order</link>
-      <description>Earache Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0754/7440/3641/files/SwervedriverRaiseDemos.jpg?v=1791916119&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Earache Records Ltd&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Ar</description>
-      <pubDate>Tue, 13 Oct 2026 18:29:07 +0000</pubDate>
-      <guid isPermaLink="true">https://earache.com/products/swervedriver-raise-demos-cd-pre-order</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Hate Meditation &quot;Scars&quot; Purple Vinyl - PRE-ORDER</title>
-      <link>https://earache.com/products/hate-meditation-scars-purple-vinyl-pre-order</link>
-      <description>Earache Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0754/7440/3641/files/HateMeditation_c7368fb5-ea74-491f-a130-9078f78bb809.jpg?v=1791915911&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Earache Records&lt;br /&gt;
-        </description>
-      <pubDate>Tue, 13 Oct 2026 18:25:31 +0000</pubDate>
-      <guid isPermaLink="true">https://earache.com/products/hate-meditation-scars-purple-vinyl-pre-order</guid>
     </item>
     <item>
       <title>[United States] Michael Hurley - Back Home With Drifting Woods</title>
@@ -921,21 +1547,6 @@
   </description>
       <pubDate>Tue, 13 Oct 2026 16:51:18 +0000</pubDate>
       <guid isPermaLink="true">https://runforcoverrecords.com/products/johnstonsons-hard-ii-impersonate</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Olivia Rodrigo (ft Chappell Roan) - expectations [V Ltd 7&quot;]</title>
-      <link>https://davids-music.co.uk/products/olivia-rodrigo-ft-chappell-roan-expectations-v-ltd-7</link>
-      <description>David&#x27;s Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0378/1623/8217/files/oli.png?v=1791908843&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;UNIVERSAL&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
-        &lt;strong&gt;Price: &lt;</description>
-      <pubDate>Tue, 13 Oct 2026 16:23:29 +0000</pubDate>
-      <guid isPermaLink="true">https://davids-music.co.uk/products/olivia-rodrigo-ft-chappell-roan-expectations-v-ltd-7</guid>
     </item>
     <item>
       <title>[United States] Imprec - Important Records Since 2001 - Forest Green - Pocket Hoodie Sweatshirt</title>
@@ -1068,107 +1679,6 @@
       <guid isPermaLink="true">https://store.dead.net/products/daves-picks-60</guid>
     </item>
     <item>
-      <title>[United Kingdom] Expert Sleepers Forever Eurorack Temporal Freeze Module</title>
-      <link>https://rubadub.co.uk/products/expert-sleepers-forever-eurorack-temporal-freeze-module</link>
-      <description>Rub A Dub Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0267/6952/2736/files/stacks-image-0d0e728-800x1200_copy__21257.1782292602.webp?v=1791897753&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Expert Sleepers&lt;br /&gt;
-      </description>
-      <pubDate>Tue, 13 Oct 2026 13:30:12 +0000</pubDate>
-      <guid isPermaLink="true">https://rubadub.co.uk/products/expert-sleepers-forever-eurorack-temporal-freeze-module</guid>
-    </item>
-    <item>
-      <title>[International] LUDWIG GORANSSO | THE ODYSSEY (ORIGINAL MOTION PICTURE SOUNDTRACK)</title>
-      <link>https://realgroovy.com/products/810155842260-the-odyssey-original-motion-picture-soundtrack</link>
-      <description>Real Groovy: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0825/5186/5644/files/4522986-3699526.jpg?v=1791896579&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Rhythmethod&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
-        </description>
-      <pubDate>Tue, 13 Oct 2026 13:02:59 +0000</pubDate>
-      <guid isPermaLink="true">https://realgroovy.com/products/810155842260-the-odyssey-original-motion-picture-soundtrack</guid>
-    </item>
-    <item>
-      <title>[International] MADONNA | LIKE A PRAYER (LTD 2026 JAPANESE EDITION) CD</title>
-      <link>https://realgroovy.com/products/603497803972-like-a-prayer-ltd-2026-japanese-edition-cd</link>
-      <description>Real Groovy: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0825/5186/5644/files/4531343-3700969.jpg?v=1791896571&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Rhythmethod&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;CD&lt;br /&gt;
-        </description>
-      <pubDate>Tue, 13 Oct 2026 13:02:52 +0000</pubDate>
-      <guid isPermaLink="true">https://realgroovy.com/products/603497803972-like-a-prayer-ltd-2026-japanese-edition-cd</guid>
-    </item>
-    <item>
-      <title>[United States] Gibson Southern Jumbo 40s Original with HiFi DNA, Vintage Sunburst</title>
-      <link>https://www.gibson.com/products/gibson-southern-jumbo-40s-original-with-hifi-dna-vintage-sunburst</link>
-      <description>Gibson Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0659/3966/9171/files/OCRSSJ40HFVS_1_Body.png?v=1779815367&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Gibson&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Acoustic Guitar&lt;br</description>
-      <pubDate>Tue, 13 Oct 2026 09:48:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.gibson.com/products/gibson-southern-jumbo-40s-original-with-hifi-dna-vintage-sunburst</guid>
-    </item>
-    <item>
-      <title>[United States] Gibson J-45 Original with HiFi DNA, Vintage Sunburst</title>
-      <link>https://www.gibson.com/products/gibson-j-45-original-with-hifi-dna-vintage-sunburst</link>
-      <description>Gibson Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0659/3966/9171/files/OCRS45OGHFVS_1_Body.png?v=1779815319&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Gibson&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Acoustic Guitar&lt;br</description>
-      <pubDate>Tue, 13 Oct 2026 09:48:21 +0000</pubDate>
-      <guid isPermaLink="true">https://www.gibson.com/products/gibson-j-45-original-with-hifi-dna-vintage-sunburst</guid>
-    </item>
-    <item>
-      <title>[United States] Gibson J-45 60s Original with HiFi DNA, Fixed Bridge, Vintage Sunburst</title>
-      <link>https://www.gibson.com/products/gibson-j-45-60s-original-with-hifi-dna-fixed-bridge-vintage-sunburst</link>
-      <description>Gibson Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0659/3966/9171/files/OCRS4560HFVS_1_Body.png?v=1779815758&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Gibson&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Acoustic Guitar&lt;br</description>
-      <pubDate>Tue, 13 Oct 2026 09:48:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.gibson.com/products/gibson-j-45-60s-original-with-hifi-dna-fixed-bridge-vintage-sunburst</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Ambient Store</title>
-      <link>https://rubadub.co.uk/products/ambient-store</link>
-      <description>Rub A Dub Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0267/6952/2736/files/LOTI_3000px_WEB.jpg?v=1791880833&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Dusk Delay&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Records&lt;br /&gt;
-    </description>
-      <pubDate>Tue, 13 Oct 2026 08:40:48 +0000</pubDate>
-      <guid isPermaLink="true">https://rubadub.co.uk/products/ambient-store</guid>
-    </item>
-    <item>
       <title>[International] Tiny Spark - After Dark - Digipak CD</title>
       <link>https://apollonrecords.no/products/tiny-spark-after-dark-digipak-cd</link>
       <description>Apollon Records: &lt;table border=&quot;0&quot;&gt;
@@ -1227,50 +1737,6 @@
       <guid isPermaLink="true">https://friendlyrecords.co.uk/products/invisible-pair-of-hands-dispiration</guid>
     </item>
     <item>
-      <title>[United States] Linkin Park: Living Things (Colored Vinyl) Vinyl LP</title>
-      <link>https://www.turntablelab.com/products/linkin-park-living-things-colored-vinyl-vinyl-lp</link>
-      <description>Turntable Lab: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0105/4542/files/093624815655.ps.jpg?v=1791915370&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Linkin Park&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;_1preview-music&lt;br /&gt;
-</description>
-      <pubDate>Tue, 13 Oct 2026 04:20:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.turntablelab.com/products/linkin-park-living-things-colored-vinyl-vinyl-lp</guid>
-    </item>
-    <item>
-      <title>[United States] Ramones: Greatest Hits (Colored Vinyl) Vinyl LP</title>
-      <link>https://www.turntablelab.com/products/ramones-greatest-hits-colored-vinyl-vinyl-lp</link>
-      <description>Turntable Lab: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0105/4542/files/processing.png?v=1776447994&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Ramones&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;_1preview-music&lt;br /&gt;
-        &lt;</description>
-      <pubDate>Tue, 13 Oct 2026 04:20:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.turntablelab.com/products/ramones-greatest-hits-colored-vinyl-vinyl-lp</guid>
-    </item>
-    <item>
-      <title>[United States] Amira Elfeky: It Was Only A Dream (Indie Exclusive Colored Vinyl) Vinyl LP</title>
-      <link>https://www.turntablelab.com/products/amira-elfeky-it-was-only-a-dream-indie-exclusive-colored-vinyl-vinyl-lp</link>
-      <description>Turntable Lab: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0105/4542/files/075678584329.ps.jpg?v=1791915671&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Amira Elfeky&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;_1preview-music&lt;br /&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 04:20:53 +0000</pubDate>
-      <guid isPermaLink="true">https://www.turntablelab.com/products/amira-elfeky-it-was-only-a-dream-indie-exclusive-colored-vinyl-vinyl-lp</guid>
-    </item>
-    <item>
       <title>[United States] Miles Davis - The Complete Jack Johnson Sessions,5xCD, RM + Box  [Columbia,Legacy]  (USED)</title>
       <link>https://goner-records.com/products/miles-davis-the-complete-jack-johnson-sessions-5xcd-rm-box-columbia-legacy-used</link>
       <description>Goner Records: &lt;table border=&quot;0&quot;&gt;
@@ -1313,21 +1779,6 @@
       <guid isPermaLink="true">https://hospitalproductions.net/products/hospital-productions-worldwide-d-i-y-underground-t-shirt-pre-order</guid>
     </item>
     <item>
-      <title>[United States] HOSPITAL PRODUCTIONS | SUPPORT THE UNDERGROUND | BLOOD RED T SHIRT</title>
-      <link>https://hospitalproductions.net/products/hospital-productions-support-the-underground-blood-red-t-shirt</link>
-      <description>Hospital Productions: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/2611/7862/files/support-t.jpg?v=1791832665&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;HOSPITAL PRODUCTIONS&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;T-Shirt&lt;br /&gt;
-     </description>
-      <pubDate>Mon, 12 Oct 2026 19:30:05 +0000</pubDate>
-      <guid isPermaLink="true">https://hospitalproductions.net/products/hospital-productions-support-the-underground-blood-red-t-shirt</guid>
-    </item>
-    <item>
       <title>[United States] Jeff Parker-Suite For Max Brown</title>
       <link>https://carolinasoul.com/products/jeff-parker-suite-for-max-brown</link>
       <description>Carolina Soul: &lt;table border=&quot;0&quot;&gt;
@@ -1354,20 +1805,6 @@
         &lt;str</description>
       <pubDate>Mon, 12 Oct 2026 18:12:30 +0000</pubDate>
       <guid isPermaLink="true">https://carolinasoul.com/products/gong-angels-egg</guid>
-    </item>
-    <item>
-      <title>[United States] Bing Crosby-Bing Crosby&#x27;s Christmas Gems</title>
-      <link>https://carolinasoul.com/products/bing-crosby-bing-crosbys-christmas-gems</link>
-      <description>Carolina Soul: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0813/9486/0332/files/CS_Logo_Red_Green_1e2559cf-c399-48e6-a342-e8beb44b7ede.png?v=1791828616&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Alliance&lt;br /&gt;
-        &lt;str</description>
-      <pubDate>Mon, 12 Oct 2026 18:09:46 +0000</pubDate>
-      <guid isPermaLink="true">https://carolinasoul.com/products/bing-crosby-bing-crosbys-christmas-gems</guid>
     </item>
     <item>
       <title>[International] Within the Ruins - Phenomena II [2LP Forrest &amp; Black]</title>
@@ -1398,20 +1835,6 @@
       <guid isPermaLink="true">https://vinyl.com/products/black-label-society-mafia-opaque-red-vinyl-1</guid>
     </item>
     <item>
-      <title>[United States] Portland Skyline Heart Pin</title>
-      <link>https://tenderlovingempire.com/products/portlandskylineheartpin</link>
-      <description>Tender Loving Empire Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1193/8946/files/TheFound_Portland_Pin_01.jpg?v=1694558860&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;The Found&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Accessories&lt;br </description>
-      <pubDate>Mon, 12 Oct 2026 17:21:49 +0000</pubDate>
-      <guid isPermaLink="true">https://tenderlovingempire.com/products/portlandskylineheartpin</guid>
-    </item>
-    <item>
       <title>[International] Take Offense - T.O.tality [Clear Cobalt Splatter]</title>
       <link>https://vinyl.com/products/take-offense-t-o-tality-clear-cobalt-splatter</link>
       <description>Vinyl.com: &lt;table border=&quot;0&quot;&gt;
@@ -1424,62 +1847,6 @@
         &lt;s</description>
       <pubDate>Mon, 12 Oct 2026 15:04:06 +0000</pubDate>
       <guid isPermaLink="true">https://vinyl.com/products/take-offense-t-o-tality-clear-cobalt-splatter</guid>
-    </item>
-    <item>
-      <title>[United States] Marilyn Monroe - Diamonds Are A Girl&#x27;s Friend (Silver Vinyl White Label)</title>
-      <link>https://cleorecs.com/products/marilyn-monroe-diamonds-are-a-girls-friend-silver-vinyl-white-label</link>
-      <description>Purple Pyramid Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0868/3379/1287/files/CLO7541LP-SV-2_e6870dbf-3dbf-4e83-9a78-7c53a4b0db45.png?v=1791585669&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Cleopatra Records&lt;br /&gt;
-      </description>
-      <pubDate>Mon, 12 Oct 2026 15:00:27 +0000</pubDate>
-      <guid isPermaLink="true">https://cleorecs.com/products/marilyn-monroe-diamonds-are-a-girls-friend-silver-vinyl-white-label</guid>
-    </item>
-    <item>
-      <title>[United States] King Flux (CD)</title>
-      <link>https://cleorecs.com/products/king-flux-cd</link>
-      <description>Purple Pyramid Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0868/3379/1287/files/CLO7462CD-2_f7114ae0-1e69-4fbb-ba5a-31e996ed4931.png?v=1791585209&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Cleopatra Records&lt;br /&gt;
-        &lt;</description>
-      <pubDate>Mon, 12 Oct 2026 15:00:24 +0000</pubDate>
-      <guid isPermaLink="true">https://cleorecs.com/products/king-flux-cd</guid>
-    </item>
-    <item>
-      <title>[United States] Robert Calvert - Test-Tube Conceived (Clear Vinyl LP)</title>
-      <link>https://cleorecs.com/products/robert-calvert-test-tube-conceived-clear-vinyl-lp</link>
-      <description>Purple Pyramid Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0868/3379/1287/files/CLO7563LP-CL-2.png?v=1791582181&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Cleopatra Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;LP&lt;br /&gt;
-   </description>
-      <pubDate>Mon, 12 Oct 2026 15:00:22 +0000</pubDate>
-      <guid isPermaLink="true">https://cleorecs.com/products/robert-calvert-test-tube-conceived-clear-vinyl-lp</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Alanis Morissette - Good Weather For Immaculate Conception [CD]</title>
-      <link>https://davids-music.co.uk/products/alanis-morissette-good-weather-for-immaculate-conception-cd</link>
-      <description>David&#x27;s Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0378/1623/8217/files/ALANISMORISSETTE-GOODWEATHERFORIMMACULATECONCEPTION-ALBUMCOVERcopy.jpg?v=1791815873&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Integral / PIAS</description>
-      <pubDate>Mon, 12 Oct 2026 14:39:13 +0000</pubDate>
-      <guid isPermaLink="true">https://davids-music.co.uk/products/alanis-morissette-good-weather-for-immaculate-conception-cd</guid>
     </item>
     <item>
       <title>[International] Kolman &amp; Calvert - The Pink Carnage of Cartilago - CD</title>
@@ -1509,51 +1876,6 @@
     </description>
       <pubDate>Mon, 12 Oct 2026 09:38:59 +0000</pubDate>
       <guid isPermaLink="true">https://www.lacedrecords.com/products/vampire-crawlers-original-game-soundtrack</guid>
-    </item>
-    <item>
-      <title>[Canada] Brand X - Unorthodox Behaviour (Used) LP</title>
-      <link>https://compactmusic.ca/products/brand-x-unorthodox-behaviour-used-lp</link>
-      <description>Compact Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0410/6249/8455/files/OIP_41.webp?v=1791740673&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Compact Music Shop&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl&lt;br /&gt;
-      </description>
-      <pubDate>Sun, 11 Oct 2026 17:47:11 +0000</pubDate>
-      <guid isPermaLink="true">https://compactmusic.ca/products/brand-x-unorthodox-behaviour-used-lp</guid>
-    </item>
-    <item>
-      <title>[Canada] Alan Holdsworth - Road Games (Used) LP</title>
-      <link>https://compactmusic.ca/products/alan-holdsworth-road-games-used-lp</link>
-      <description>Compact Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0410/6249/8455/files/OIP_40.webp?v=1791740434&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Compact Music Shop&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl&lt;br /&gt;
-      </description>
-      <pubDate>Sun, 11 Oct 2026 17:40:56 +0000</pubDate>
-      <guid isPermaLink="true">https://compactmusic.ca/products/alan-holdsworth-road-games-used-lp</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Various - If Deejay Was Your Trade. The Dreads At King Tubby’s 1974-77</title>
-      <link>https://friendlyrecords.co.uk/products/various-if-deejay-was-your-trade-the-dreads-at-king-tubby-s-1974-77</link>
-      <description>Friendly Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1322/9859/files/IMG_8873.jpg?v=1791698434&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Friendly Records Ltd&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;&lt;br /&gt;
-        &lt;stro</description>
-      <pubDate>Sun, 11 Oct 2026 06:00:52 +0000</pubDate>
-      <guid isPermaLink="true">https://friendlyrecords.co.uk/products/various-if-deejay-was-your-trade-the-dreads-at-king-tubby-s-1974-77</guid>
     </item>
     <item>
       <title>[United States] Temu - Is It All Over My Face? - 7&quot;</title>
@@ -1624,21 +1946,6 @@
       <guid isPermaLink="true">https://www.polyvinylrecords.com/products/elliott-false-cathedrals</guid>
     </item>
     <item>
-      <title>[United States] Zoom TAC-2R Two-channel Thunderbolt Audio Interface (Open Box)</title>
-      <link>https://rockandsoul.com/products/zoom-tac-2r-two-channel-thunderbolt-audio-interface-open-box</link>
-      <description>Rock &amp; Soul DJ Equipment: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0002/7053/2620/files/1651299.jpg?v=1791636391&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Zoom&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Misc&lt;br /&gt;
-        &lt;strong&gt;Price</description>
-      <pubDate>Sat, 10 Oct 2026 12:46:31 +0000</pubDate>
-      <guid isPermaLink="true">https://rockandsoul.com/products/zoom-tac-2r-two-channel-thunderbolt-audio-interface-open-box</guid>
-    </item>
-    <item>
       <title>[United States] Lindsey Stirling - Lose You Now</title>
       <link>https://saintmarierecords.com/products/lindsey-stirling-lose-you-now</link>
       <description>Saint Marie Records: &lt;table border=&quot;0&quot;&gt;
@@ -1664,34 +1971,6 @@
         &lt;strong&gt;Vendor: &lt;/strong&gt;Record Store Day&lt;br /</description>
       <pubDate>Sat, 10 Oct 2026 00:52:48 +0000</pubDate>
       <guid isPermaLink="true">https://saintmarierecords.com/products/various-songs-for-you-vol-2</guid>
-    </item>
-    <item>
-      <title>[United States] Landscape Beanie (Olive)</title>
-      <link>https://tenderlovingempire.com/products/pnw-landscape-beanie</link>
-      <description>Tender Loving Empire Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1193/8946/products/SF_LandscapeBeanie_Olive.jpg?v=1667601278&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Tender Loving Empire&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;A</description>
-      <pubDate>Fri, 09 Oct 2026 22:06:58 +0000</pubDate>
-      <guid isPermaLink="true">https://tenderlovingempire.com/products/pnw-landscape-beanie</guid>
-    </item>
-    <item>
-      <title>[United States] Very Good Breakfast Riso Print</title>
-      <link>https://tenderlovingempire.com/products/very-good-breakfast-riso-print</link>
-      <description>Tender Loving Empire Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/1193/8946/files/DM_VeryGoodBreakfast_Riso_01.jpg?v=1720811443&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Tender Loving Empire&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 21:20:27 +0000</pubDate>
-      <guid isPermaLink="true">https://tenderlovingempire.com/products/very-good-breakfast-riso-print</guid>
     </item>
     <item>
       <title>[United States] Chin Music - Richard Short</title>
@@ -1722,20 +2001,6 @@
       </description>
       <pubDate>Fri, 09 Oct 2026 20:10:45 +0000</pubDate>
       <guid isPermaLink="true">https://50wattsbooks.com/products/limbo-ferry-gouw</guid>
-    </item>
-    <item>
-      <title>[United States] Nostalgia Nest - The Salamander King</title>
-      <link>https://50wattsbooks.com/products/nostalgia-nest-the-salamander-king</link>
-      <description>50 Watts Books &amp; Music: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0510/5215/0960/files/Salamander-King-Nostalgia-Nest.jpg?v=1791575724&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Hollow Press&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;B</description>
-      <pubDate>Fri, 09 Oct 2026 20:06:31 +0000</pubDate>
-      <guid isPermaLink="true">https://50wattsbooks.com/products/nostalgia-nest-the-salamander-king</guid>
     </item>
     <item>
       <title>[United Kingdom] Juno Translucent Magenta LP</title>
@@ -1780,20 +2045,6 @@
       <guid isPermaLink="true">https://www.islandrecords.com/products/illuminate-deluxe-cd-book</guid>
     </item>
     <item>
-      <title>[United States] Into the Unknown LP (Red Nebula Splash)</title>
-      <link>https://www.epitaph.com/products/into-the-unknown-lp-red-nebula-splash</link>
-      <description>Epitaph Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0562/2107/3457/files/87120-1RNS_BadReligion_LP.png?v=1787191566&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Bad Religion&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12in V</description>
-      <pubDate>Fri, 09 Oct 2026 15:00:05 +0000</pubDate>
-      <guid isPermaLink="true">https://www.epitaph.com/products/into-the-unknown-lp-red-nebula-splash</guid>
-    </item>
-    <item>
       <title>[United States] Kennedy Caughell: Just the Beginning [CD]</title>
       <link>https://www.broadwayrecords.com/products/kennedy-caughell-just-the-beginning-cd</link>
       <description>Center Stage Records: &lt;table border=&quot;0&quot;&gt;
@@ -1807,50 +2058,6 @@
     </description>
       <pubDate>Fri, 09 Oct 2026 14:13:33 +0000</pubDate>
       <guid isPermaLink="true">https://www.broadwayrecords.com/products/kennedy-caughell-just-the-beginning-cd</guid>
-    </item>
-    <item>
-      <title>[United States] Hands Like Houses - Dissonants 10th Anniversary Black Ice White Wave - Vinyl LP</title>
-      <link>https://riserecords.com/products/hlh0ds10bi-lp</link>
-      <description>Rise Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0098/1585/1086/files/HLHsite_8864439c-d886-4961-a886-4d6c8c22dfa8.jpg?v=1790257799&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;HLH0&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/st</description>
-      <pubDate>Fri, 09 Oct 2026 13:23:43 +0000</pubDate>
-      <guid isPermaLink="true">https://riserecords.com/products/hlh0ds10bi-lp</guid>
-    </item>
-    <item>
-      <title>[United States] Chelsea Grin - Self Inflicted (Deluxe Edition) 10th Anniversary Carolina Plum - Vinyl LP</title>
-      <link>https://riserecords.com/products/cgrnsi10cp-lp</link>
-      <description>Rise Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0098/1585/1086/files/CGsite.jpg?v=1790256250&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;CGRN&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl LP&lt;br /&gt;
-        &lt;strong&gt;Pr</description>
-      <pubDate>Fri, 09 Oct 2026 13:23:42 +0000</pubDate>
-      <guid isPermaLink="true">https://riserecords.com/products/cgrnsi10cp-lp</guid>
-    </item>
-    <item>
-      <title>[United States] Of Mice &amp; Men - The Flood (Deluxe Edition) 15th Anniversary Sulfur Galaxy - Double Vinyl LP</title>
-      <link>https://riserecords.com/products/omamtf15sg-lp</link>
-      <description>Rise Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0098/1585/1086/files/OMAMsite.jpg?v=1790255373&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;OMAM&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Vinyl LP&lt;br /&gt;
-        &lt;strong&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 13:23:41 +0000</pubDate>
-      <guid isPermaLink="true">https://riserecords.com/products/omamtf15sg-lp</guid>
     </item>
     <item>
       <title>[United States] Purple Bear with Rose Hacky Sack</title>
@@ -1924,235 +2131,5 @@
         &lt;</description>
       <pubDate>Thu, 08 Oct 2026 15:11:27 +0000</pubDate>
       <guid isPermaLink="true">https://thirdmanrecords.com/products/the-white-stripes-complete-lyrics-special-edition</guid>
-    </item>
-    <item>
-      <title>[United States] Yoshimi Battles The Pink Robots: The Original Story By The Flaming Lips (Signed, Special Edition)</title>
-      <link>https://thirdmanrecords.com/products/yoshimi-battles-the-pink-robots-the-original-story-by-the-flaming-lips-special</link>
-      <description>Third Man Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0441/1349/4174/files/ScreenShot2025-10-07at12.24.47PM.png?v=1771425344&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Third Man Records – Official Store&lt;br /&gt;
-        </description>
-      <pubDate>Thu, 08 Oct 2026 15:07:11 +0000</pubDate>
-      <guid isPermaLink="true">https://thirdmanrecords.com/products/yoshimi-battles-the-pink-robots-the-original-story-by-the-flaming-lips-special</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] DELUXXE - If You Were Me LP</title>
-      <link>https://www.cryptofthewizard.com/products/profit-prison-gilt-lp-copy</link>
-      <description>Crypt of the Wizard: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0337/6689/9845/files/a2498118765_10.jpg?v=1791469929&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Avanti Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
-</description>
-      <pubDate>Thu, 08 Oct 2026 14:33:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.cryptofthewizard.com/products/profit-prison-gilt-lp-copy</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] PROFIT PRISON  - Gilt LP</title>
-      <link>https://www.cryptofthewizard.com/products/profit-prison-gilt-lp</link>
-      <description>Crypt of the Wizard: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0337/6689/9845/files/a3509908154_10.jpg?v=1791469725&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Avanti Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
-</description>
-      <pubDate>Thu, 08 Oct 2026 14:33:20 +0000</pubDate>
-      <guid isPermaLink="true">https://www.cryptofthewizard.com/products/profit-prison-gilt-lp</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] NO FILTER - Sans Filtre 12&quot;</title>
-      <link>https://www.cryptofthewizard.com/products/no-filter-sans-filtre-12</link>
-      <description>Crypt of the Wizard: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0337/6689/9845/files/a1967649917_10.jpg?v=1791469579&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Avanti Records&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;12&amp;quot;&lt;br /&gt;
-</description>
-      <pubDate>Thu, 08 Oct 2026 14:33:17 +0000</pubDate>
-      <guid isPermaLink="true">https://www.cryptofthewizard.com/products/no-filter-sans-filtre-12</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Self Esteem - A Complicated Woman - Live From Brixton Academy. - Limited Edition SIGNED A3 Art Print Inc download of the show.</title>
-      <link>https://liveherenow.co.uk/products/self-esteem-a-complicated-woman-live-from-brixton-academy-limited-edition-signed-a3-art-print-inc-download-of-the-show</link>
-      <description>Live Here Now: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0049/1392/2118/files/SE_A3print.png?v=1788862887&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;LiveHereNow.com&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Art Print&lt;br /&gt;
-  </description>
-      <pubDate>Thu, 08 Oct 2026 11:45:00 +0000</pubDate>
-      <guid isPermaLink="true">https://liveherenow.co.uk/products/self-esteem-a-complicated-woman-live-from-brixton-academy-limited-edition-signed-a3-art-print-inc-download-of-the-show</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Self Esteem - A Complicated Woman - Live From Brixton Academy. - 2CD SIGNED 80 Page Hardback Book.</title>
-      <link>https://liveherenow.co.uk/products/self-esteem-a-complicated-woman-live-from-brixton-academy-2-cd-80-page-hardback-book</link>
-      <description>Live Here Now: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0049/1392/2118/files/SE_PhotoBook_visual.png?v=1788862888&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;LiveHereNow.com&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;2CD Hardb</description>
-      <pubDate>Thu, 08 Oct 2026 11:44:59 +0000</pubDate>
-      <guid isPermaLink="true">https://liveherenow.co.uk/products/self-esteem-a-complicated-woman-live-from-brixton-academy-2-cd-80-page-hardback-book</guid>
-    </item>
-    <item>
-      <title>[United Kingdom] Self Esteem - A Complicated Woman - Live From Brixton Academy. - SIGNED Double Red Vinyl LP</title>
-      <link>https://liveherenow.co.uk/products/self-esteem-a-complicated-woman-live-from-brixton-academy-double-lp</link>
-      <description>Live Here Now: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0049/1392/2118/files/PNG-image.png?v=1791293897&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;LiveHereNow.com&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Double LP&lt;br /&gt;
-   </description>
-      <pubDate>Thu, 08 Oct 2026 11:44:58 +0000</pubDate>
-      <guid isPermaLink="true">https://liveherenow.co.uk/products/self-esteem-a-complicated-woman-live-from-brixton-academy-double-lp</guid>
-    </item>
-    <item>
-      <title>[United States] Taking Back Sunday - Where You Want To Be</title>
-      <link>https://www.polyvinylrecords.com/products/taking-back-sunday-where-you-want-to-be</link>
-      <description>Polyvinyl Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0881/7655/8387/files/i_2dd308f3-df1b-480e-ad5f-bf2eefb0f36f.jpg?v=1737060422&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Victory Records&lt;br /&gt;
-        &lt;strong&gt;Type:</description>
-      <pubDate>Thu, 08 Oct 2026 01:57:40 +0000</pubDate>
-      <guid isPermaLink="true">https://www.polyvinylrecords.com/products/taking-back-sunday-where-you-want-to-be</guid>
-    </item>
-    <item>
-      <title>[United States] Nine Inch Nails - The Downward Spiral</title>
-      <link>https://reverberationrecords.com/products/nine-inch-nails-the-downward-spiral</link>
-      <description>Reverberation Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0793/3070/5686/files/nineinchnailsdownwardspiral.png?v=1778028862&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;reverberationrecords&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/str</description>
-      <pubDate>Thu, 08 Oct 2026 01:55:27 +0000</pubDate>
-      <guid isPermaLink="true">https://reverberationrecords.com/products/nine-inch-nails-the-downward-spiral</guid>
-    </item>
-    <item>
-      <title>[United States] Iron Maiden - Seventh Son of a Seventh Son</title>
-      <link>https://reverberationrecords.com/products/iron-maiden-seventh-son-of-a-seventh-son</link>
-      <description>Reverberation Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0793/3070/5686/files/Iron_Maiden_-_Seventh_Son_Of_A_Seventh_Son.jpg?v=1776792563&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;reverberationrecords&lt;br /&gt;
-        &lt;str</description>
-      <pubDate>Thu, 08 Oct 2026 01:55:26 +0000</pubDate>
-      <guid isPermaLink="true">https://reverberationrecords.com/products/iron-maiden-seventh-son-of-a-seventh-son</guid>
-    </item>
-    <item>
-      <title>[United States] Ozzy Osbourne - No More Tears</title>
-      <link>https://reverberationrecords.com/products/ozzy-osbourne-no-more-tears</link>
-      <description>Reverberation Records: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0793/3070/5686/files/Ozzy_Osbourne_-_No_More_Tears.jpg?v=1781641817&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;reverberationrecords&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/s</description>
-      <pubDate>Thu, 08 Oct 2026 01:51:58 +0000</pubDate>
-      <guid isPermaLink="true">https://reverberationrecords.com/products/ozzy-osbourne-no-more-tears</guid>
-    </item>
-    <item>
-      <title>[United States] Paper Doll - Tee</title>
-      <link>https://rounder.com/products/paper-doll-tee-pod</link>
-      <description>Rounder Records Shop: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0493/1767/5161/files/797e3799b3a14c4897b10e955019cb42.png?v=1791400386&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Samantha Fish&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/stron</description>
-      <pubDate>Wed, 07 Oct 2026 19:17:25 +0000</pubDate>
-      <guid isPermaLink="true">https://rounder.com/products/paper-doll-tee-pod</guid>
-    </item>
-    <item>
-      <title>[United States] Rocketship - New Threats (Single #1)</title>
-      <link>https://darla.com/products/rocketship-new-threats</link>
-      <description>Darla Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0961/0594/files/708527039618.png?v=1791393528&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Darla&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Rocketship&lt;br /&gt;
-        &lt;stron</description>
-      <pubDate>Wed, 07 Oct 2026 17:19:20 +0000</pubDate>
-      <guid isPermaLink="true">https://darla.com/products/rocketship-new-threats</guid>
-    </item>
-    <item>
-      <title>[United States] Rwake &quot;Built From Stardust - &#x27;The Return Of Magik&#x27; Live In Little Rock, AR&quot; 2x12&quot;</title>
-      <link>https://www.relapse.com/products/rwake-built-from-stardust-the-return-of-magik-live-in-little-rock-ar-2x12</link>
-      <description>Relapse Records Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0700/2302/0865/files/aa47c387811a3684681039dff8891527.jpg?v=1791300631&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Rwake&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;2x12&amp;q</description>
-      <pubDate>Wed, 07 Oct 2026 14:20:59 +0000</pubDate>
-      <guid isPermaLink="true">https://www.relapse.com/products/rwake-built-from-stardust-the-return-of-magik-live-in-little-rock-ar-2x12</guid>
-    </item>
-    <item>
-      <title>[United States] Anniversary Zine</title>
-      <link>https://www.sacredbonesrecords.com/products/sbb-026-psychic-ills-anniversary-zine</link>
-      <description>Sacred Bones Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0263/1575/files/409-psychicills-zine-mock-r0.jpg?v=1791323217&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Psychic Ills&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Book&lt;br </description>
-      <pubDate>Wed, 07 Oct 2026 13:14:01 +0000</pubDate>
-      <guid isPermaLink="true">https://www.sacredbonesrecords.com/products/sbb-026-psychic-ills-anniversary-zine</guid>
-    </item>
-    <item>
-      <title>[United States] Dins</title>
-      <link>https://www.sacredbonesrecords.com/products/sbr-3051-psychic-ills-dins</link>
-      <description>Sacred Bones Store: &lt;table border=&quot;0&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;200&quot;&gt;&lt;img src=&quot;https://cdn.shopify.com/s/files/1/0263/1575/files/sbr3051-psychicills-dins.jpg?v=1790716898&quot; width=&quot;200&quot; /&gt;&lt;/td&gt;
-    &lt;td valign=&quot;bottom&quot;&gt;
-      &lt;p&gt;
-
-        &lt;strong&gt;Vendor: &lt;/strong&gt;Psychic Ills&lt;br /&gt;
-        &lt;strong&gt;Type: &lt;/strong&gt;Release&lt;br /</description>
-      <pubDate>Wed, 07 Oct 2026 13:11:56 +0000</pubDate>
-      <guid isPermaLink="true">https://www.sacredbonesrecords.com/products/sbr-3051-psychic-ills-dins</guid>
     </item>
 </channel></rss>
